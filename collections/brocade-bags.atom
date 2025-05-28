@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/brocade-bags.atom"/>
+  <title>Golden Tips</title>
+  <updated>2022-09-10T02:22:10-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263188217895</id>
+    <published>2022-09-10T02:22:10-05:00</published>
+    <updated>2022-09-10T02:22:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/fine-sikkim-tea-royal-brocade-cloth-bag"/>
+    <title>Temi Sikkim Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-78_1.jpg?v=1733895826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.75 - 18.50
+            <a href="https://www.goldentipstea.com/products/fine-sikkim-tea-royal-brocade-cloth-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">
+This tenderly plucked and carefully manufactured tea comes from the sole Temi Tea estate in the north-eastern state of Sikkim in India. This tea is an international favourite and is characteristic of a bright Colour in the cup with a unique and typical flavour.</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188217895</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>GT-79</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188217895</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>GT-78</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263186972711</id>
+    <published>2021-08-31T08:07:19-05:00</published>
+    <updated>2021-08-31T08:07:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pure-nilgiri-tea-royal-brocade-cloth-bag"/>
+    <title>Pure Nilgiri Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Pure-Nilgiri-Tea---Royal-Brocade-Cloth-Bag_e9d53f29-dea4-4249-ab20-3fad5c271970.jpg?v=1665235143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            7.75 - 13.80
+            <a href="https://www.goldentipstea.com/products/pure-nilgiri-tea-royal-brocade-cloth-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">This high-grown full leaf black tea comes from the picturesque estates of the the Nilgiris in southern India. The tea is characteristic of a light and crispy flavour, a brisk &amp; bright liqour in the cup with a subtle &amp; distinct after-taste.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+<br> <iframe width="100%" height="320" src="https://www.youtube.com/embed/2uEYL7RZzzU?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift bag</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>nilgiri teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263186972711</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>GT-59</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263186972711</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">13.80</s:price>
+      <s:sku>GT-58</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187103783</id>
+    <published>2021-08-31T08:06:18-05:00</published>
+    <updated>2021-08-31T08:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pure-assam-tea-royal-brocade-cloth-bag"/>
+    <title>Pure Assam Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Pure-Assam-Tea---Royal-Brocade-Cloth-Bag_38cc1e35-1aaa-466c-9d5c-0e43f03616a6.jpg?v=1665234533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            7.70 - 13.75
+            <a href="https://www.goldentipstea.com/products/pure-assam-tea-royal-brocade-cloth-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A Fine Selection of black tea from the lush estates of Assam. This sparkling orthodox tea contains rare golden- tipped leaves and is characteristic of a pronounced malty flavour with a bright Colour &amp; enduring aroma. Ideal for lovers whose weakness is strength and who also relish their cuppa with a dash of milk. Delight in the unique character of the best Assam has to offer: a bold and bright concoction that will leave you feeling empowered and energized every day!</div>
+<div class="prodDesc-Block_Text"></div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div>
+<div class="text-center mb-3 mt-3"><iframe style="box-shadow: 0 0 10px #80808047;" title="YouTube video player" src="https://www.youtube.com/embed/edHzv4AwI0M?rel=0" width="100%" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe></div>
+<!--Video Markup Code Generated by https://videoschema.com/ -->
+<div itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+<h2><span itemprop="name">Flavours of Assam Teas</span></h2>
+<meta content="PT57S" itemprop="duration"> <meta content="2020-07-03T05:32:36Z" itemprop="uploadDate"> <meta content="https://i.ytimg.com/vi/vk14u-Gos5c/default.jpg" itemprop="thumbnailURL"> <meta content="350" itemprop="interactionCount"> <meta content="https://youtube.googleapis.com/v/vk14u-Gos5c" itemprop="embedURL">
+<div id="schema-videoobject" class="video-container"><iframe width="100%" height="480" src="https://www.youtube.com/embed/vk14u-Gos5c?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
+<span itemprop="description">Assam teas are known for rich, strong, and full-bodied, malty flavors. Due to its reddish amber color, tea lovers find it almost hard to resist. Explore Now https://www.goldentipstea.in/collections/assam</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187103783</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>GT-61</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187103783</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">13.75</s:price>
+      <s:sku>GT-60</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263186841639</id>
+    <published>2021-08-31T08:05:05-05:00</published>
+    <updated>2021-08-31T08:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/roseherb-green-tea-royal-brocade-cloth-bag-1"/>
+    <title>Roseherb Green Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Roseherb-Green-Tea---Royal-Brocade-Cloth-Bag_1024x_23066ec8-1da9-4273-b143-7c1ce08021c1.png?v=1743682037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A soothing blend of pure green tea and a variety of exotic medicinal herbs from the Himalayas in India. This light and mellow herbal green tea is characteristic of a rich grassy aroma with sweetish and rosy undertones, a smooth flavour with fairly bright Colour in the cup. </div>
+<br>
+<div class="prodDesc-Block_Text"></div>
+<div class="prodDesc-Block_Text">
+<meta charset="UTF-8">
+<span>Elevate your tea ritual with an experience that transcends the ordinary. Discover a moment of quiet luxury where each cup invites you to unwind and reconnect with nature’s artistry. The intricate blend embodies a journey of sensory delight, evoking a refined atmosphere of heritage and modern elegance. Its serene allure makes it the perfect companion for moments of reflection, celebration, or simply savoring the finer things in life.</span>
+</div>
+<div class="prodDesc-Block_Text"><span></span></div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263186841639</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>GT-215</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263188381735</id>
+    <published>2017-10-27T04:47:22-05:00</published>
+    <updated>2017-10-27T04:47:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/earl-grey-darjeeling-tea-royal-brocade-cloth-bag"/>
+    <title>Earl Grey  Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Earl-Grey-Darjeeling-Black-Tea---Royal-Brocade-Cloth-Bag_f9459167-9bd4-468e-b93b-d28dd0be4e98.jpg?v=1733896970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            6.00 - 11.25
+            <a href="https://www.goldentipstea.com/products/earl-grey-darjeeling-tea-royal-brocade-cloth-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">
+<span>Select full leaf Tea, skilfully blended with the oil of</span><br><span>Bergamot with a fragrant, refreshing flavour. Earl Grey was popularised by the</span><br><span>British, hence the faint English undertone associated with it. If there was to be a ‘most</span><br><span>fashionable Tea award’ - it would arguably go to Earl Grey Tea with its immense popularity</span><br><span>among the creme-de-la-creme.</span>
+</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div>
+<iframe width="100%" height="320" src="https://www.youtube.com/embed/SEddyubYbiM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188381735</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>GT-133</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188381735</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>GT-132</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187365927</id>
+    <published>2017-10-27T04:46:11-05:00</published>
+    <updated>2017-10-27T04:46:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/masala-chai-royal-brocade-cloth-bag-1"/>
+    <title>Masala Chai India&apos;s Authentic Spiced Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Untitled-2.jpg?v=1665234981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            11.00 - 15.99
+            <a href="https://www.goldentipstea.com/products/masala-chai-royal-brocade-cloth-bag-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description user-content lightboximages">
+<!-- Block -->
+    <div class="prodDesc-Block">
+    <!-- Block Content -->An age-old classic, Masala Chai, Literally meaning "Spiced Tea" is one of the most popular tea blends in the world, originating from India. This Unique &amp; ancient preparation contains a strong flavor of black tea blended with a variety of aromatic spices.<br data-mce-fragment="1"><br data-mce-fragment="1"> <strong>Disclaimer:</strong> <br data-mce-fragment="1">Brocade fabric design may change from time to time and may not be the same as shown on the website.<br>
+    </div>
+    <div class="prodDesc-Block">
+    <!-- Block Heading -->
+    <div class="prodDesc-Block__Heading">Health Benefits</div>
+    <!-- Block Content -->
+    <ul style="margin-left: 18px;margin-top: 7px;">
+        <li style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion. </li>
+    
+        <li>Antioxidant-rich helps prevent cell damage.</li>
+    
+        <li>Boost Energy and Immunity.</li>
+    
+      
+    </ul>
+     
+    </div>
+    
+    
+              <div class="mb-2 mt-2 text-center"><iframe src="https://www.youtube.com/embed/k8-iKDSoZ78?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="270" frameborder="0"></iframe></div>
+    
+    <!--Video Markup Code Generated by https://videoschema.com/ -->   
+   <script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "Indian Traditional Masala Chai",
+  "description": "Masala chai is among the most widely consumed tea in the Indian subcontinent. It is a CTC tea that is brewed using milk and herbs and spices. CTC teas undergo a different kind of processing compared to Darjeeling teas. The leaves of these teas are passed through cylindrical rollers with hundreds of sharp teeth that crush, tear, and curl (or CTC as the name implies) the tea leaves into tiny hard pellets. Explore the sea of tea: https://www.goldentipstea.com/collections/chai",
+  "thumbnailUrl": "https://i.ytimg.com/vi/k8-iKDSoZ78/default.jpg",
+  "uploadDate": "2020-05-21T06:54:58Z",
+  "duration": "PT33S",
+  "embedUrl": "https://www.youtube.com/embed/k8-iKDSoZ78",
+  "interactionCount": "948"
+}</script>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>flavour black tea</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>spiced tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187365927</id>
+      <title>4.40oz   -     125gm   -   62+ cups</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>GT-91</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187365927</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>GT-141</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187038247</id>
+    <published>2017-10-27T04:45:42-05:00</published>
+    <updated>2017-10-27T04:45:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pure-darjeeling-tea-royal-brocade-cloth-bag"/>
+    <title>Pure Darjeeling Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Pure-Darjeeling-Tea---Royal-Brocade-Cloth-Bag_33ba3048-27b8-4cdd-9a17-fe063e92ba2b.jpg?v=1665234225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.85 - 16.90
+            <a href="https://www.goldentipstea.com/products/pure-darjeeling-tea-royal-brocade-cloth-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A premium Selection from the most popular tea growing region in the world, at the foothills of the Himalayas. This full leaf tea is characteristic of a sparkling golden color, flowery aroma and a smooth flavour with distinct fruity notes.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div>
+<br> <iframe src="https://www.youtube.com/embed/04GQHwqyarc?rel=0" height="350" width="100%" allowfullscreen="" frameborder="0"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187038247</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">9.85</s:price>
+      <s:sku>GT-57</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187038247</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">16.90</s:price>
+      <s:sku>GT-56</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187005479</id>
+    <published>2017-10-27T04:45:39-05:00</published>
+    <updated>2017-10-27T04:45:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pure-green-tea-royal-brocade-cloth-bag-1"/>
+    <title>Pure Green Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Green_Tea.jpg?v=1733896343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            9.65 - 17.25
+            <a href="https://www.goldentipstea.com/products/pure-green-tea-royal-brocade-cloth-bag-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A delicate and smooth whole leaf green tea from the pristine hills of Darjeeling. This non-fermented tea, rich in natural anti-oxidants with several health benefits, is characteristic of a smooth light taste, a gentle and floral aroma with pale green Colour in the cup.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div>
+          <div class="mb-2 mt-2 text-center"><iframe src="https://www.youtube.com/embed/oC9JholL1R4?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="270" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187005479</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">9.65</s:price>
+      <s:sku>GT-55</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187005479</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">17.25</s:price>
+      <s:sku>GT-45</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/chai.atom"/>
+  <title>Golden Tips</title>
+  <updated>2025-04-11T01:25:53-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9332971012374</id>
+    <published>2025-04-11T01:25:53-05:00</published>
+    <updated>2025-04-11T01:25:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/spring-ctc-tea"/>
+    <title>Spring CTC Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-437_b71acf9f-717e-472f-b4cd-1c43a4bf9755.jpg?v=1744356242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.90 - 18.00
+            <a href="https://www.goldentipstea.com/products/spring-ctc-tea">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Spring harvest comes after almost 3 months of plucking closure during winters in the Terai region. This tea is manufactured from the leaves plucked in the first week of flushing - the most prime time - and comes with rare &amp; mild floral aroma and mild sweetness, characters not found anytime of the year thereafter. Drinking this delicious brew is indeed a very pleasant experience.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>ctc tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>spring ctc tea</s:tag>
+    <s:tag>terai black tea</s:tag>
+    <s:tag>zipper tea bag</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9332971012374</id>
+      <title>8.82oz - 250 gm - 125 cups</title>
+      <s:price currency="USD">9.90</s:price>
+      <s:sku>GT-437</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9332971012374</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>GT-438</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9898565861654</id>
+    <published>2025-03-21T04:09:53-05:00</published>
+    <updated>2025-03-21T04:09:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/fine-ctc-tea"/>
+    <title>Fine CTC Tea</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-228.png?v=1742547163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            9.99 - 25.00
+            <a href="https://www.goldentipstea.com/products/fine-ctc-tea">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A specially selected bright-liquoring tea with a very refreshingly distinct taste and strength that promises to enliven your mornings and evenings like never before.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assam black tea</s:tag>
+    <s:tag>assam tea</s:tag>
+    <s:tag>assam teas</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>ctc tea</s:tag>
+    <s:tag>fine ctc</s:tag>
+    <s:tag>fine ctc tea</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9898565861654</id>
+      <title>8.81oz - 250 gm - 125 cups</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>GT-226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9898565861654</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>GT-227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9898565861654</id>
+      <title>35.27 - 1 kg - 500 cups</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GT-228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9244187984150</id>
+    <published>2024-08-21T07:20:00-05:00</published>
+    <updated>2024-08-21T07:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/saffron-cardamom-exotic-chai-indias-authentic-spiced-tea-tin-can-free-exotic-darjeeling-tea-35g"/>
+    <title>Saffron Cardamom Exotic Chai India&apos;s Authentic Spiced Tea - Tin Can (Free Exotic Darjeeling Tea 35g)</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gtl-61_1.jpg?v=1739254345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">Health Benefits</div>
+<ul style="margin-left: 18px; margin-top: 7px;" data-mce-fragment="1" data-mce-style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Boost Energy and Immunity.</li>
+</ul>
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">How to prepare a perfect cup:</div>
+<ul style="margin-left: 18px; margin-top: 7px;" data-mce-fragment="1" data-mce-style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Mix one portion of milk &amp; two portions of water &amp; set to boil.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">When on boil add one teaspoon of Masala Chai and boil for another minute.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Add sugar as per taste &amp; strain into a cup.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Best consumed with milk.</li>
+</ul>
+<br><br>
+</div>
+</div>
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "Indian Traditional Masala Chai",
+  "description": "Masala chai is among the most widely consumed tea in the Indian subcontinent. It is a CTC tea that is brewed using milk and herbs and spices. CTC teas undergo a different kind of processing compared to Darjeeling teas. The leaves of these teas are passed through cylindrical rollers with hundreds of sharp teeth that crush, tear, and curl (or CTC as the name implies) the tea leaves into tiny hard pellets. Explore the sea of tea: https://www.goldentipstea.com/collections/chai",
+  "thumbnailUrl": "https://i.ytimg.com/vi/k8-iKDSoZ78/default.jpg",
+  "uploadDate": "2020-05-21T06:54:58Z",
+  "duration": "PT33S",
+  "embedUrl": "https://www.youtube.com/embed/k8-iKDSoZ78",
+  "interactionCount": "948"
+}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>saffron tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9244187984150</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6795186896950</id>
+    <published>2023-09-29T04:54:47-05:00</published>
+    <updated>2023-09-29T04:54:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/gift-combos-of-masala-chai-ginger-mastea-saffron-cardamom-tea-kadak-chai-cinnamon-ctc-tea-giner-ctc-tea"/>
+    <title>Gift Combos of Masala Chai, Ginger Mastea, Saffron Cardamom Tea, Kadak Chai, Cinnamon CTC Tea &amp; Ginger CTC Tea</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/1_f1ae5c87-0702-44b4-ab84-405deeba90b5.jpg?v=1733826024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A collection of  6 special Indian Spice Teas – Masala Chai, Ginger Mastea, Saffron Cardamom Tea, Kadak Chai, Cinnamon CTC Tea &amp; Earl Grey Masala Tea. Packed in cylindrical golden tin cans with transparent lids and placed in a designer </span><span data-mce-fragment="1">gold-foiled </span><span data-mce-fragment="1">box, most ideal for gifting.</span><span></span>
+<div class="prodDesc-Block mt-4">
+<div class="prodDesc-Block__Heading">Masala Chai</div>
+<div class="prodDesc-Block__Text">
+<strong>Ingredients:</strong><span> </span>Green Cardamom, Black Pepper, Cloves, Cinnamon &amp; Black Tea 30g</div>
+<div class="prodDesc-Block__Heading mt-3">Ginger Mastea</div>
+<div class="prodDesc-Block__Text">
+<strong>Ingredients:</strong><span> </span>CTC Tea, Cinnamon, Dry Ginger, Green Cardamom &amp; Cloves 30g</div>
+<div class="prodDesc-Block__Heading mt-3">Kadak Chai</div>
+<div class="prodDesc-Block__Text">
+<strong>Ingredients:</strong><span> </span>Green Cardamom, Cloves, Ginger Cinnamon, Bay Leaves &amp; CTC Tea 30g</div>
+<div class="prodDesc-Block__Heading mt-3">Saffron Cardamom Tea</div>
+<div class="prodDesc-Block__Text">
+<strong>Ingredients:</strong><span> </span>Green Cardamom, Saffron &amp; Black Tea 30g</div>
+<div class="prodDesc-Block__Heading mt-3">Cinnamon CTC Tea</div>
+<div class="prodDesc-Block__Text">
+<strong>Ingredients:</strong><span> </span>Cinnamon &amp; CTC Tea 30g</div>
+<div class="prodDesc-Block__Heading mt-3">Ginger CTC Tea</div>
+<div class="prodDesc-Block__Text">
+<strong>Ingredients:</strong> Ginger CTC Tea</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6795186896950</id>
+      <title>6.34oz - 180 gm - 90 cups</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>GT-419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6673134846006</id>
+    <published>2023-08-12T02:15:58-05:00</published>
+    <updated>2023-08-12T02:15:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/gift-boxes-combo-traditional-masala-chai-ginger-mastea-kadak-chai"/>
+    <title>Gift boxes Combo Traditional Masala Chai + Ginger Mastea + Kadak Chai</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/front_1.jpg?v=1733895472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">A collection of the finest teas in attractive cans packed in a designer box, most ideal for gifting.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Traditional Masala Chai                ( 150 gram )</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Ginger Mastea                              ( 150 gram )</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Kadak Chai                                   ( 150 gram )</span></li>
+<li data-mce-fragment="1">Bulk Tea Enquiries</li>
+<li data-mce-fragment="1">https://www.goldentipstea.com/pages/wholesale-bulk-teas</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6673134846006</id>
+      <title>15.87oz - 450 gm - 225 cups</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>GT-410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6639380365366</id>
+    <published>2023-08-12T02:15:46-05:00</published>
+    <updated>2023-08-12T02:15:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/gift-boxes-combo-of-masala-chai-oolong-tea-white-tea"/>
+    <title>Gift boxes Combo of Masala chai+ Oolong Tea + Darjeeling White Tea</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/front_1.jpg?v=1733895472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            42.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A collection of the finest teas in attractive cans packed in a designer box, most ideal for gifting.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Masala chai                ( 150 gram )</span></li>
+<li><span data-mce-fragment="1">Oolong Tea                ( 75 gram   )</span></li>
+<li><span data-mce-fragment="1">Darjeeling White Tea ( 50 gram   )</span></li>
+<li>Bulk Tea Enquiries</li>
+<li>https://www.goldentipstea.com/pages/wholesale-bulk-teas</li>
+</ul>
+<p> </p>
+<ul>
+<li>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/bDPVagwaNx4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6639380365366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.75</s:price>
+      <s:sku>GT-409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6639377219638</id>
+    <published>2023-08-12T02:15:32-05:00</published>
+    <updated>2023-08-12T02:15:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/masala-chai-earl-grey-oolong-tea"/>
+    <title>Gift box Combo - Masala Chai + Earl Grey Tea + Oolong Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/front_1.jpg?v=1733895472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            39.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A collection of the finest teas in attractive cans packed in a designer box, most ideal for gifting.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Masala chai    ( 150 gram )</span></li>
+<li><span data-mce-fragment="1">Oolong Tea    ( 75 gram   )</span></li>
+<li><span data-mce-fragment="1">Earl Grey Tea  ( 100 gram )</span></li>
+<li>Bulk Tea Enquiries</li>
+<li>https://www.goldentipstea.com/pages/wholesale-bulk-teas<br>
+</li>
+</ul>
+<iframe src="https://www.youtube.com/embed/bDPVagwaNx4?rel=0" title="YouTube video player" width="100%" height="350" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>new darjeeling tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6639377219638</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.82</s:price>
+      <s:sku>GT-408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8259541795094</id>
+    <published>2023-05-16T12:59:09-05:00</published>
+    <updated>2023-05-16T12:59:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/saffron-cardamom-exotic-chai-indias-authentic-spiced-tea-tin-can"/>
+    <title>Saffron Cardamom Exotic Chai India&apos;s Authentic Spiced Tea - Tin Can</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/glt-60_2.jpg?v=1733825395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">Health Benefits</div>
+<ul style="margin-left: 18px; margin-top: 7px;" data-mce-fragment="1" data-mce-style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Boost Energy and Immunity.</li>
+</ul>
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">How to prepare a perfect cup:</div>
+<ul style="margin-left: 18px; margin-top: 7px;" data-mce-fragment="1" data-mce-style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Mix one portion of milk &amp; two portions of water &amp; set to boil.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">When on boil add one teaspoon of Masala Chai and boil for another minute.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Add sugar as per taste &amp; strain into a cup.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Best consumed with milk.</li>
+</ul>
+<br><br>
+</div>
+</div>
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "Indian Traditional Masala Chai",
+  "description": "Masala chai is among the most widely consumed tea in the Indian subcontinent. It is a CTC tea that is brewed using milk and herbs and spices. CTC teas undergo a different kind of processing compared to Darjeeling teas. The leaves of these teas are passed through cylindrical rollers with hundreds of sharp teeth that crush, tear, and curl (or CTC as the name implies) the tea leaves into tiny hard pellets. Explore the sea of tea: https://www.goldentipstea.com/collections/chai",
+  "thumbnailUrl": "https://i.ytimg.com/vi/k8-iKDSoZ78/default.jpg",
+  "uploadDate": "2020-05-21T06:54:58Z",
+  "duration": "PT33S",
+  "embedUrl": "https://www.youtube.com/embed/k8-iKDSoZ78",
+  "interactionCount": "948"
+}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8259541795094</id>
+      <title>8.81oz  - 250gm   - 125 cups</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>GTL-60</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6831060582454</id>
+    <published>2022-08-03T11:39:39-05:00</published>
+    <updated>2022-08-03T11:39:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/premium-ctc-tea"/>
+    <title>Premium CTC Tea</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-415.jpg?v=1728025079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            12.99 - 35.00
+            <a href="https://www.goldentipstea.com/products/premium-ctc-tea">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Finest CTC Tea from the sub-Himalayan regions of eastern India. One<span>of the very finest teas to be produced, this harvest comes with a bright liquor &amp; strength along with a pleasant bouquet &amp; aroma.</span><br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>ctc tea</s:tag>
+    <s:tag>spiced tea</s:tag>
+    <s:tag>spicy teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6831060582454</id>
+      <title>17.64oz - 500 Gram - 250 cups</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>GT-414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6831060582454</id>
+      <title>35.27oz - 1 Kilogram - 500 cups</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>GT-415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6831060582454</id>
+      <title>8.82oz - 200 Gram - 100 cups</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>GT-446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6795198431286</id>
+    <published>2022-05-31T11:43:49-05:00</published>
+    <updated>2022-05-31T11:43:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/earl-grey-spice-black-tea"/>
+    <title>Earl Grey Spice Black Tea</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/JP-14Images-2_1.jpg?v=1654015428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the delightful blend of our Earl Grey Spice Black Tea, where Indian spices and CTC tea come together with the sweet aroma of bergamot oil. It's a unique twist that makes the flavor pop!</p>
+<p>Enjoy it hot or cold – this tea is perfect for any mood. Add a bit of milk for a creamy touch that enhances the richness.</p>
+<p>Indulge in the charm of our Earl Grey Spice Black Tea, a mix of tradition and creativity that brings a special touch to your tea time. Every sip promises a tasty and comforting experience</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chai teas</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>spiced tea</s:tag>
+    <s:tag>spicy teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6795198431286</id>
+      <title>5.29oz-150 gm-75 cups</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>JP-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6794755506230</id>
+    <published>2022-05-30T11:34:40-05:00</published>
+    <updated>2022-05-30T11:34:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/the-archaive-3-in-1-gift-boxes-combo-of-masala-chai-ginger-mastea-kadak-chai"/>
+    <title>The Archaive  - 3 in 1 Gift boxes Combo of Masala Chai, Ginger Mastea &amp; Kadak Chai</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/1_d5631bbe-1f38-4a47-8278-d01815a4d6a0.jpg?v=1733826079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A collection of 3 special Indian Spiced Teas – Masala Chai, Ginger Mastea &amp; Kadak Chai, packed </span><span data-mce-fragment="1">in cylindrical golden tin cans with transparent lids and placed in a designer </span><span data-mce-fragment="1">gold-foiled </span><span data-mce-fragment="1">box, most ideal for gifting.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted teas</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6794755506230</id>
+      <title>3.17oz-90 gm-45 Cups</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>GT-418</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6736625270838</id>
+    <published>2022-03-22T13:04:11-05:00</published>
+    <updated>2022-03-22T13:04:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/ginger-mastea-loose-leaf-spicy-indian-chai"/>
+    <title>Ginger Mastea Loose Leaf Spicy Indian Chai</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Ginger_Mastea.jpg?v=1730096684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block prodDesc-Block__Text">A classic blend of strong CTC tea with a host of selected Indian spices along with the aromatic and pungent Ginger. This traditional recipe makes for an unforgettable drink that is best served in a shot glass or clay cup. <br><br>This energizing beverage can bring about a feeling of sheer bliss with its spicy, flavorful compositions <br><br>A cup of steaming host 'masala chai' is known to ease colds, relieve nasal congestion, and boost immunity</div>
+<div class="prodDesc-Block mt-4">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">SUGGESTED READINGS:</div>
+<!-- Block Content --> <a class="border-0 text-link" href="/blogs/all/top-5-health-benefits-of-ginger-tea"> <span> Top 5 Health Benefits of Ginger Tea </span></a> <a class="border-0 text-link" href="/blogs/all/is-masala-tea-healthy?_pos=14&amp;_sid=ae9676429&amp;_ss=r"> <span> Top 6 Health Benefits of Masala Tea </span></a> <a class="border-0 text-link" href="/blogs/all/biggest-collection-of-best-indian-masala-teas?_pos=15&amp;_sid=ae9676429&amp;_ss=r"> <span> Biggest Collection of Best Indian Masala Teas </span></a>
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ruQG5pz4Zhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<!-- Block -->
+<p> </p>
+<!-- Block -->
+<p> </p>
+<!-- Block --></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chai teas</s:tag>
+    <s:tag>paper box</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6736625270838</id>
+      <title>3.53oz - 125 gm - 62 cups</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>GTK-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/4706578268214</id>
+    <published>2020-08-28T00:29:08-05:00</published>
+    <updated>2020-08-28T00:29:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/ginger-ctc-black-tea"/>
+    <title>Ginger CTC Black Tea</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-272_MOCKUP.png?v=1739255719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A perfect blend of robust CTC Tea blended expertly with crushed Ginger. A cup of piping hot Ginger Tea, a healthy drink that’s a boon for digestion. An excellent must-have tea for all chai lovers.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Reduce Muscle Pain and Soreness, Drastically Lower Blood Sugars, and Improve Heart Disease Risk Factors, Lower Cholesterol Levels, Improve Brain Function and Protect Against Alzheimer's Disease.</div>
+</div>
+<div class="text-center mb-3 mt-3"><iframe style="box-shadow: 0 0 10px #80808047;" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube.com/embed/edHzv4AwI0M?rel=0" width="560" height="315" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>Speciality Blends</s:tag>
+    <s:tag>Tea Type Black</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/4706578268214</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>GT-272-200GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263180746791</id>
+    <published>2020-01-10T05:29:52-06:00</published>
+    <updated>2020-01-10T05:29:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/masala-chai-envelope-tea-bags"/>
+    <title>Masala Chai Envelope - Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/IE-109_2_db4c26ba-9500-4c43-88d4-f19008211b72.jpg?v=1719837694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            10.99 - 22.80
+            <a href="https://www.goldentipstea.com/products/masala-chai-envelope-tea-bags">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+    <!-- Block Content -->
+    <div class="prodDesc-Block_Text">An age-old classic, Masala Chai, literally meaning 'Spiced Teas' is one of the most popular tea blends in the world, originating from India. This unique &amp; ancient preparation contains a strong Assam black tea blended with a variety of fresh aromatic spices.
+</div>
+<div class="prodDesc-Block">
+    <!-- Block Heading -->
+    <div class="prodDesc-Block__Heading">Ingredients:</div>
+    <!-- Block Content -->
+    <div class="prodDesc-Block__Text">Black Tea, Green Cardamom, Dry Ginger, Black Pepper, Long Pepper, Cloves, Bay Leaves, Cinnamon.</div>
+    </div>
+    <!-- Block -->
+    <div class="prodDesc-Block mt-4">
+      <div class="text-dark fs-20" style="font-size: 20px;margin-bottom: 10px;">Packed in individually enveloped sachets to preserve freshness and flavor. Steep 3-5 Minutes</div>
+      <div class="text-dark fs-20" style="font-size: 20px;margin-bottom: 10px;">Can be served with or without milk 
+    </div>
+        <!-- Block Heading -->
+        <div class="prodDesc-Block">
+            <!-- Block Heading -->
+            <div class="prodDesc-Block__Heading">Health Benefits:</div>
+            <!-- Block Content -->
+            <div class="prodDesc-Block__Text">Prevent Cold and Nasal Congestion, Antioxidant-rich helps prevent cell damage, Boost Energy, and Immunity.
+                Each Teabag Contains 2gms Tea.
+            </div>
+            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ye1MSZ6CCWY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <!-- Block Content -->
+       
+        
+        
+        
+   </div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>masala chai tea bag</s:tag>
+    <s:tag>spicy tea bag</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263180746791</id>
+      <title>1.41oz   -     40gm   -   20 cups</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>IE-109</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263180746791</id>
+      <title>7.05oz - 200gm - 100 cups</title>
+      <s:price currency="USD">22.80</s:price>
+      <s:sku>IE-118</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/514766438454</id>
+    <published>2019-08-28T06:18:22-05:00</published>
+    <updated>2019-08-28T06:18:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/assam-kadak-chai-spicy-masala-blend-500gm-17-6oz-250-cups"/>
+    <title>Assam Kadak Chai, Spicy Masala Tea Blend</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-350.jpg?v=1722859350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            11.99 - 21.99
+            <a href="https://www.goldentipstea.com/products/assam-kadak-chai-spicy-masala-blend-500gm-17-6oz-250-cups">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">This unique &amp; ancient preparation contains a strong flavoury black tea blended with a variety of aromatic Assam Kadak spices.</div>
+  
+  <div class="text-dark fw-900 fs-20" style="font-size: 20px;margin-bottom: 10px;margin-top:10px">
+Can also be served chilled.Best with milk.</div>
+  
+<div class="prodDesc-Block_Text">A spicy blend of strong CTC tea with handpicked spices to be prepared the traditional way.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Ingredients:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Cardamom, Cinnamon, Clove, Ginger, Bay Leaves &amp; CTC Tea.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion</li>
+<li style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage</li>
+<li style="margin-bottom: 5px;">Boost Energy, and Immunity.</li>
+</ul>
+</div>
+<div class="text-center mb-3 mt-3"><iframe style="box-shadow: 0 0 10px #80808047;" title="YouTube video player" src="https://www.youtube.com/embed/k8-iKDSoZ78?rel=0" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chai teas</s:tag>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>ctc tea</s:tag>
+    <s:tag>kadak chai</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/514766438454</id>
+      <title>7.05oz   -     250gm   -   125 cups Pouch</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>GT-371</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/514766438454</id>
+      <title>17.64oz -    500gm  -  250 cups Paper Box</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>GT-350</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/503853088822</id>
+    <published>2018-02-20T06:38:19-06:00</published>
+    <updated>2018-02-20T06:38:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/ginger-mastea-indian-masala-chai-350gm"/>
+    <title>Ginger Mastea - Indian Masala Chai</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/ginger2.jpg?v=1686661039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            13.99 - 22.99
+            <a href="https://www.goldentipstea.com/products/ginger-mastea-indian-masala-chai-350gm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+    <!-- Block Content -->
+    <div class="prodDesc-Block_Text">A classic blend of strong CTC tea with a host of selected Indian spices along with the aromatic and pungent Ginger. This traditional recipe makes for an unforgettable drink that is best served in a shot glass or clay cup.
+</div>
+    <!-- Block -->
+    <div class="prodDesc-Block mt-4">
+      <div class="text-dark fs-20" style="font-size: 20px;margin-bottom: 10px;">Can also be served chilled. Best with milk.</div>
+        <!-- Block Heading -->
+        <div class="prodDesc-Block">
+            <!-- Block Heading -->
+            <div class="prodDesc-Block__Heading">Ingredients:</div>
+            <!-- Block Content -->
+            <div class="prodDesc-Block__Text">CTC Tea, Cinnamon, Green Cardamom, Cloves, Dry ginger</div>
+            </div>
+        <!-- Block Content -->
+        <div class="prodDesc-Block__Heading">How to Prepare Ginger Mastea - Indian Masala Chai</div>
+        <ul style="margin-left: 18px;margin-top: 7px;">
+<li style="margin-bottom: 5px;">Mix 1 portion milk &amp; 2 portion of water. Bring to a boil.</li>
+<li style="margin-bottom: 5px;">Add 1 Tsp. of Ginger Mastea Tea Leaves to the boil.</li>
+<li style="margin-bottom: 5px;">Boil for a min. till the mix fares up thrice.</li>
+<li style="margin-bottom: 5px;">Add Sugar and Stir</li>
+<li style="margin-bottom: 5px;">Strain and Serve        </li>
+            
+    
+          
+        </ul>
+        <iframe class="responsive-iframe" width="560" height="330" src="https://www.youtube.com/embed/ruQG5pz4Zhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        
+   </div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assam tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>ctc tea</s:tag>
+    <s:tag>spicy teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/503853088822</id>
+      <title>7.05oz   -     250gm   -   125 cups Pouch</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>GT-370</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/503853088822</id>
+      <title>12.45oz - 500gm - 250 cups Paper Box</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>GT-338</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187660839</id>
+    <published>2017-10-27T04:46:32-05:00</published>
+    <updated>2017-10-27T04:46:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/masala-chai-tin-can-200gm"/>
+    <title>Masala Chai India&apos;s Authentic Spiced Tea - Tin Can</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gtl-21-mockup.jpg?v=1733983735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">An age-old classic, Masala Chai, literally meaning “Spiced Tea” is one of the most popular tea blends in the world, originating from India. This unique &amp; ancient preparation contains a strong flavoury black tea blended with a variety of aromatic spices.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block_Text">The tea is characteristic of a rich &amp; spicy aroma, a strong and perfectly balanced flavor with dark Colour in the cup.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">The tea is characteristic of a rich &amp; spicy aroma, a strong and perfectly balanced flavor with dark Colour in the cup.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Ingredients: </div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Black Tea, Green Cardamom, Dry Ginger, Black Pepper, Long Pepper, Cloves, Bay Leaves, Cinnamon</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits</div>
+<!-- Block Content -->
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion.</li>
+<li style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage.</li>
+<li style="margin-bottom: 5px;">Boost Energy and Immunity.</li>
+</ul>
+<div class="prodDesc-Block__Heading">How to prepare a perfect cup:</div>
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">Mix one portion of milk &amp; two portions of water &amp; set to boil.</li>
+<li style="margin-bottom: 5px;">When on boil add one teaspoon of Masala Chai and boil for another minute.</li>
+<li style="margin-bottom: 5px;">Add sugar as per taste &amp; strain into a cup.</li>
+<li style="margin-bottom: 5px;">Best consumed with milk.</li>
+</ul>
+<br>
+</div>
+<iframe src="https://www.youtube.com/embed/k8-iKDSoZ78" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe> 
+ <!--Video Markup Code Generated by https://videoschema.com/ -->
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "Indian Traditional Masala Chai",
+  "description": "Masala chai is among the most widely consumed tea in the Indian subcontinent. It is a CTC tea that is brewed using milk and herbs and spices. CTC teas undergo a different kind of processing compared to Darjeeling teas. The leaves of these teas are passed through cylindrical rollers with hundreds of sharp teeth that crush, tear, and curl (or CTC as the name implies) the tea leaves into tiny hard pellets. Explore the sea of tea: https://www.goldentipstea.com/collections/chai",
+  "thumbnailUrl": "https://i.ytimg.com/vi/k8-iKDSoZ78/default.jpg",
+  "uploadDate": "2020-05-21T06:54:58Z",
+  "duration": "PT33S",
+  "embedUrl": "https://www.youtube.com/embed/k8-iKDSoZ78",
+  "interactionCount": "948"
+}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187660839</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>GTL-21</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187365927</id>
+    <published>2017-10-27T04:46:11-05:00</published>
+    <updated>2017-10-27T04:46:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/masala-chai-royal-brocade-cloth-bag-1"/>
+    <title>Masala Chai India&apos;s Authentic Spiced Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Untitled-2.jpg?v=1665234981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            11.00 - 15.99
+            <a href="https://www.goldentipstea.com/products/masala-chai-royal-brocade-cloth-bag-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description user-content lightboximages">
+<!-- Block -->
+    <div class="prodDesc-Block">
+    <!-- Block Content -->An age-old classic, Masala Chai, Literally meaning "Spiced Tea" is one of the most popular tea blends in the world, originating from India. This Unique &amp; ancient preparation contains a strong flavor of black tea blended with a variety of aromatic spices.<br data-mce-fragment="1"><br data-mce-fragment="1"> <strong>Disclaimer:</strong> <br data-mce-fragment="1">Brocade fabric design may change from time to time and may not be the same as shown on the website.<br>
+    </div>
+    <div class="prodDesc-Block">
+    <!-- Block Heading -->
+    <div class="prodDesc-Block__Heading">Health Benefits</div>
+    <!-- Block Content -->
+    <ul style="margin-left: 18px;margin-top: 7px;">
+        <li style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion. </li>
+    
+        <li>Antioxidant-rich helps prevent cell damage.</li>
+    
+        <li>Boost Energy and Immunity.</li>
+    
+      
+    </ul>
+     
+    </div>
+    
+    
+              <div class="mb-2 mt-2 text-center"><iframe src="https://www.youtube.com/embed/k8-iKDSoZ78?rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="270" frameborder="0"></iframe></div>
+    
+    <!--Video Markup Code Generated by https://videoschema.com/ -->   
+   <script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "Indian Traditional Masala Chai",
+  "description": "Masala chai is among the most widely consumed tea in the Indian subcontinent. It is a CTC tea that is brewed using milk and herbs and spices. CTC teas undergo a different kind of processing compared to Darjeeling teas. The leaves of these teas are passed through cylindrical rollers with hundreds of sharp teeth that crush, tear, and curl (or CTC as the name implies) the tea leaves into tiny hard pellets. Explore the sea of tea: https://www.goldentipstea.com/collections/chai",
+  "thumbnailUrl": "https://i.ytimg.com/vi/k8-iKDSoZ78/default.jpg",
+  "uploadDate": "2020-05-21T06:54:58Z",
+  "duration": "PT33S",
+  "embedUrl": "https://www.youtube.com/embed/k8-iKDSoZ78",
+  "interactionCount": "948"
+}</script>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>flavour black tea</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>spiced tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187365927</id>
+      <title>4.40oz   -     125gm   -   62+ cups</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>GT-91</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187365927</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>GT-141</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263181697063</id>
+    <published>2017-10-27T04:39:45-05:00</published>
+    <updated>2017-10-27T04:39:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/masala-chai-full-leaf-pyramid-20-tea-bags-40g"/>
+    <title>Masala Chai Full Leaf Pyramid -  Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Masala_Chai_Pyramid_tea_bags.jpg?v=1730094506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">An age-old classic 'Masala Chai' literally meaning 'Spiced Tea' is one of the most popular tea blends in the world, originating from India. This unique &amp; ancient preparation contains a strong flavour of black tea blended with a variety of fresh &amp; aromatic spices.</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Prevent Cold and Nasal Congestion, Antioxidant-rich helps prevent cell damage, Boost Energy and Immunity.</div>
+</div>
+</div>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Each Teabag contains 2gms tea.</div>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/ye1MSZ6CCWY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
+<!-- Block Content -->
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>paper box</s:tag>
+    <s:tag>paper boxes</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181697063</id>
+      <title>1.41oz   -     40gm   -   20 cups</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>GT-708</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263181369383</id>
+    <published>2017-10-27T04:39:07-05:00</published>
+    <updated>2017-10-27T04:39:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/saffron-cardamom-exotic-chai-100gm"/>
+    <title>Saffron Cardamom Exotic Chai</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-285.jpg?v=1731413357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            7.50 - 13.99
+            <a href="https://www.goldentipstea.com/products/saffron-cardamom-exotic-chai-100gm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+    <!-- Block Content -->
+    <div class="prodDesc-Block_Text">A perfect blend of robust CTC Tea with freshly-crushed Cardamom and aromatic Saffron threads. This special combination makes for a very distinctive and delicious cup. Relax and breathe in the enchanting world of gourmet fine teas with this unique and seductive offering.
+</div>
+    <!-- Block -->
+    <div class="prodDesc-Block mt-4">
+      <div class="text-dark fs-20" style="font-size: 20px;margin-bottom: 10px;">Can also be served chilled. Best with milk.</div>
+        <!-- Block Heading -->
+        <div class="prodDesc-Block">
+            <!-- Block Heading -->
+            <div class="prodDesc-Block__Heading">Health Benefits:</div>
+            <!-- Block Content -->
+            <div class="prodDesc-Block__Text">Antioxidant, Lower Blood Pressure, Help with Digestive Problems, Including Ulcers, Decrease Inflammation. lower your risk of heart disease
+            </div>
+            </div>
+            <div class="prodDesc-Block">
+                <!-- Block Heading -->
+                <div class="prodDesc-Block__Heading">Ingredients:</div>
+                <!-- Block Content -->
+                <div class="prodDesc-Block__Text">Cardamom, Saffron &amp; CTC Tea</div>
+                </div>
+        <!-- Block Content -->
+       
+        
+        
+        
+   </div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>Region Assam</s:tag>
+    <s:tag>Speciality Chai</s:tag>
+    <s:tag>Tea Type Black</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181369383</id>
+      <title>3.53oz - 100gm - 50 cups</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>GT-285-100GM</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181369383</id>
+      <title>1.76oz - 50gm - 25 cups</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263178977319</id>
+    <published>2017-10-27T04:36:13-05:00</published>
+    <updated>2017-10-27T04:36:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/golden-tips-masala-chai-indias-authentic-spiced-tea-jar-pack"/>
+    <title>Masala Chai India&apos;s Authentic Spiced Tea - Value Pack</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-439_2_-fotor-2024111311343.jpg?v=1731478203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            9.99 - 23.99
+            <a href="https://www.goldentipstea.com/products/golden-tips-masala-chai-indias-authentic-spiced-tea-jar-pack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">An age-old classic, Masala Chai, literally meaning 'Spiced Tea' is one of the most popular tea blends in the world, originating from India. This unique and ancient preparation contains a strong flavoury Black Tea blended with a variety of aromatic spices.</div>
+<!-- Block -->
+<div class="prodDesc-Block mt-4">
+<div class="text-dark fs-20" style="font-size: 20px; margin-bottom: 10px;">Can also be served chilled.Best with milk.</div>
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion,</li>
+<li style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage,</li>
+<li style="margin-bottom: 5px;">Clove contains compounds that help in improving the immune system.</li>
+<li style="margin-bottom: 5px;">Cardamom has been used as a digestive which improves circulatory and digestive systems.</li>
+<li style="margin-bottom: 5px;">Cinnamon has anti-inflammatory properties which help the body fight infections.</li>
+</ul>
+<div class="prodDesc-Block__Heading">How to prepare Masala Chai</div>
+<strong style="font-size: 16px;">Standard preparation without milk</strong>
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">Take 1 teaspoon of Golden Tips Masala Chai in a cup.</li>
+<li style="margin-bottom: 5px;">Pour 200 ml of freshly boiled water over the tea leaves.</li>
+<li style="margin-bottom: 5px;">Steep for 3-5 minutes as the leaves unfurled fully.</li>
+<li style="margin-bottom: 5px;">Strain the tea leaves using a strainer</li>
+<li style="margin-bottom: 5px;">Add sugar or honey as a sweetener.</li>
+</ul>
+<strong style="font-size: 16px;">Standard preparation with milk</strong>
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">In a saucepan take two-third of water and one-third of milk and boil it.</li>
+<li style="margin-bottom: 5px;">When it reaches boiling point add 1-2 teaspoons of Golden Tips Masala Chai and keep boiling for another 2-3 minutes.</li>
+<li style="margin-bottom: 5px;">Add sugar as per your taste.</li>
+</ul>
+</div>
+</div>
+<div class="text-center mb-3 mt-3"><iframe src="https://www.youtube.com/embed/k8-iKDSoZ78" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>Cardamom</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>Region Assam</s:tag>
+    <s:tag>Speciality Blends</s:tag>
+    <s:tag>Speciality Chai</s:tag>
+    <s:tag>Tea Type Black</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263178977319</id>
+      <title>3.53oz   -   100gm   -   50 cups Pouch</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>JP-12-100GM</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263178977319</id>
+      <title>8.82oz   -     200gm   -   100 cups Pouch</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JP-16</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263178977319</id>
+      <title>17.64oz -    500gm  -  250 cups Paper Box</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>GT-439-500GM</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/white.atom"/>
+  <title>Golden Tips</title>
+  <updated>2025-03-31T02:45:06-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9904882811158</id>
+    <published>2025-03-31T02:45:06-05:00</published>
+    <updated>2025-03-31T02:45:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/white-pride-organic-darjeeling-white-tea-first-flush-2025"/>
+    <title>White Pride Organic Darjeeling White Tea First Flush 2025</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTT_BADAMTAM_EX-06_04.jpg?v=1743600759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            31.78 - 1229.86
+            <a href="https://www.goldentipstea.com/products/white-pride-organic-darjeeling-white-tea-first-flush-2025">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Bold, Downy Silver Buds With Very Few Dark Light Green Leaves</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Pale yellow</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Bright Green Buds &amp; Leaves With just a nominal Presence Of Coppery Notes With a Soft Nose.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">New Season 2025 Exotic Spring Flush White Tea From The Renowned And Organic Badamtam Estate In Darjeeling. This Limited-Edition And Most Sought-After Tea Has Been Very Selectively Plucked From Special Bushes And Minimally Processed To Maximise The Retention Of The Flavour &amp; Bouquet. This Is A Very Exclusive Offering That Is Extremely Mellowed, Subtle, Soft, Fragrant And Having A Very Delicate And Mild Floral Aroma With A Soft &amp; Sweetish Finish. Exceptional And Possibly The Best Offering Of The Season.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>darjeeling first flush teas</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>first flush</s:tag>
+    <s:tag>first flush 2025</s:tag>
+    <s:tag>first flush darjeeling tea</s:tag>
+    <s:tag>first flush tea</s:tag>
+    <s:tag>first flush tea 2025</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf white tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic darjeeling tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9904882811158</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">115.56</s:price>
+      <s:sku>FF-2025-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9904882811158</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">31.78</s:price>
+      <s:sku>FF-2025-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9904882811158</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">272.55</s:price>
+      <s:sku>FF-2025-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9904882811158</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">776.75</s:price>
+      <s:sku>FF-2025-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9904882811158</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">1229.86</s:price>
+      <s:sku>FF-2025-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9897686204694</id>
+    <published>2025-03-20T03:50:33-05:00</published>
+    <updated>2025-03-20T03:50:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/spring-pearl-organic-darjeeling-white-tea-first-flush-2025"/>
+    <title>Spring Pearl Organic Darjeeling White Tea First Flush 2025</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTTAryasilverneedle01.jpg?v=1742460314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            6.34 - 245.32
+            <a href="https://www.goldentipstea.com/products/spring-pearl-organic-darjeeling-white-tea-first-flush-2025">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Wide open light green leaves &amp; bud sets with prominent silver tips.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Extremely Pale Green</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Light green leaves &amp; bud sets with mellowed vegetal nose.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">
+New season early Spring Tea from the Organic Arya tea estate in Darjeeling. Among the several 'gems' produced by this estate, this is among the finest and relished for its uniqueness. The taste is extremely mellowed, gentle, pleasant and soothing and comes with a soft floral aroma that overwhelms the drinker with its mellifluousness. The mildly citrusy &amp; sweet notes combined with the innumerable health benefits, add to the drinking pleasure of this most fascinating cuppa.
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>darjeeling first flush teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>first flush</s:tag>
+    <s:tag>first flush 2025</s:tag>
+    <s:tag>first flush darjeeling tea</s:tag>
+    <s:tag>first flush tea</s:tag>
+    <s:tag>first flush tea 2025</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf white tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic darjeeling tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>organic white tea</s:tag>
+    <s:tag>Tea Type White</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9897686204694</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">23.05</s:price>
+      <s:sku>FF-2025-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9897686204694</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">6.34</s:price>
+      <s:sku>FF-2025-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9897686204694</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">54.36</s:price>
+      <s:sku>FF-2025-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9897686204694</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">154.94</s:price>
+      <s:sku>FF-2025-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9897686204694</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">245.32</s:price>
+      <s:sku>FF-2025-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9894261850390</id>
+    <published>2025-03-15T11:53:59-05:00</published>
+    <updated>2025-03-15T11:53:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/snow-white-buds-darjeeling-white-tea-first-flush-2025"/>
+    <title>Snow White Buds Darjeeling White Tea First Flush 2025</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/North-Tukvar-white-thunder-DHR-05-1.jpg?v=1742192319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            8.44 - 326.54
+            <a href="https://www.goldentipstea.com/products/snow-white-buds-darjeeling-white-tea-first-flush-2025">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text"> Mostly greenish leaf &amp; bud silver tips</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Very pale yellow</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Light green leaf &amp; bud sets with a very soft &amp; pleasant nose.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">New season 2025 fresh &amp; select harvest from the scenic Tukvar tea estate in Darjeeling. This delicately-plucked and minimally processed offering comes with flavour a profile that is remarkably smooth, delicately fruity and has a fine finish that is par excellence. The added pleasant aroma makes this one of the very fine teas to have been processed this season.
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling first flush teas</s:tag>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>first flush</s:tag>
+    <s:tag>first flush 2025</s:tag>
+    <s:tag>first flush darjeeling tea</s:tag>
+    <s:tag>first flush tea</s:tag>
+    <s:tag>first flush tea 2025</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>loose leaf white tea</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9894261850390</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">30.68</s:price>
+      <s:sku>FF-2025-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9894261850390</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">8.44</s:price>
+      <s:sku>FF-2025-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9894261850390</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">72.36</s:price>
+      <s:sku>FF-2025-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9894261850390</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">206.24</s:price>
+      <s:sku>FF-2025-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9894261850390</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">326.54</s:price>
+      <s:sku>FF-2025-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9883846050070</id>
+    <published>2025-03-05T04:19:00-06:00</published>
+    <updated>2025-03-05T04:19:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/white-royale-darjeeling-white-tea-first-flush-2025"/>
+    <title>White Royale Darjeeling White Tea First Flush 2025</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/WHITE-ROYALE-1.jpg?v=1741169504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            4.13 - 159.99
+            <a href="https://www.goldentipstea.com/products/white-royale-darjeeling-white-tea-first-flush-2025">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Open green leaf &amp; bud sets with ample silvery tipped leaves.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Pale yellow</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Light green leaves &amp; buds with a soft vegetal nose.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">
+New 2025 very early Spring Tea from the Tukvar estate in Darjeeling. The tender buds are plucked by experienced pluckers and then naturally withered and shade dried without any kind of fermentation or processing. This way the nutrients of the leaves are fully preserved. This minimally processed  tea has a highly mellowed &amp; delicate flavour that is very soothing and has mild sweetish notes with gentle floral aroma. The accrual of multiple health benefits is another endearing factor to drink and relish this very fine offering.
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling first flush teas</s:tag>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>first flush</s:tag>
+    <s:tag>first flush 2025</s:tag>
+    <s:tag>first flush darjeeling tea</s:tag>
+    <s:tag>first flush tea</s:tag>
+    <s:tag>first flush tea 2025</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>loose leaf white tea</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9883846050070</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">15.03</s:price>
+      <s:sku>FF-2025-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9883846050070</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">4.13</s:price>
+      <s:sku>FF-2025-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9883846050070</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">35.45</s:price>
+      <s:sku>FF-2025-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9883846050070</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">101.05</s:price>
+      <s:sku>FF-2025-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9883846050070</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>FF-2025-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9846410969366</id>
+    <published>2025-01-24T05:00:40-06:00</published>
+    <updated>2025-01-24T05:00:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/jasmine-lovers-flowering-white-tea"/>
+    <title>Jasmine Lovers Flowering White Tea</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/WEBSITEIMAGE.png?v=1737717312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            12.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fine white tea sewed with strings of jasmine flowers and amaranth. The infusion unfolds a visual delight in a goblet &amp;amp; gives forth a pleasant floral aroma. The soothing flavour combined with the multiple health benefits makes this an amazing flowering tea to relish.</p>
+<p>Amaranth is a natural relaxant that may ease sore throat &amp;amp; headache, lower blood pressure and help sleep a little easier. Jasmine is believed to improve mood, reduce stress and also food cravings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9846410969366</id>
+      <title>1.05oz- 30 gm - 16 cups</title>
+      <s:price currency="USD">12.36</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9362975654166</id>
+    <published>2024-12-17T05:05:07-06:00</published>
+    <updated>2024-12-17T05:05:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pearl-haze-darjeeling-white-tea-first-flush-2024"/>
+    <title>Pearl Haze Darjeeling White Tea First Flush 2024</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Ringtong1_1.jpg?v=1713792281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            3.00 - 116.30
+            <a href="https://www.goldentipstea.com/products/pearl-haze-darjeeling-white-tea-first-flush-2024">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Open green tender leaf &amp; bud sets with few silvery tipped leaves.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Very pale green</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Bright green leaf &amp; bud sets with a soft vegetal nose</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">New 2024 Spring Tea from the Ringtong estate in Darjeeling. The tender buds are plucked by experienced pluckers and then naturally withered and shade dried without any kind of fermentation or processing. This way the nutrients of the leaves are fully preserved. This very natural tea has a highly mellowed &amp; extremely delicate vegetal flavour that is extremely delicate and satiating with the mild floral aroma. The accrual of multiple health benefits is another endearing factor ro drink and relish this wonderful offering.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>loose leaf white tea</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9362975654166</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>FF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9362975654166</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>FF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9362975654166</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">25.77</s:price>
+      <s:sku>FF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9362975654166</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">73.45</s:price>
+      <s:sku>FF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9362975654166</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">116.30</s:price>
+      <s:sku>FF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9162781851926</id>
+    <published>2024-10-24T04:10:04-05:00</published>
+    <updated>2024-10-24T04:10:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/flavoury-collection-darjeeling-whole-leaf-teas-gift-box"/>
+    <title>Flavoury Collection Darjeeling Whole Leaf Teas Gift Box</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/2_c6a60b60-90de-41af-9a45-7e57525ae157.jpg?v=1733894899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            18.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Unique assemblage of six different whole-leaf teas from Darjeeling - First Flush, Second Flush, Autumn Flush, Green, White &amp; Oolong. These delightful teas are certain to overwhelm any tea connoisseur. So go ahead and enjoy the finest teas in the world, with this assortment packed in individual tin caddies with illustrations associated with Darjeeling sightseeing spots. Brought to you in a gift box by Golden Tips - India’s oldest &amp; most reputed name in quality teas since 1933.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collections</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>dajeeling tea</s:tag>
+    <s:tag>darjeeling black tea</s:tag>
+    <s:tag>darjeeling first flush teas</s:tag>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>darjeeling second flush teas</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9162781851926</id>
+      <title>125 Gram - 4.40 oz - 62 Cups</title>
+      <s:price currency="USD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8432162865430</id>
+    <published>2024-07-09T03:48:48-05:00</published>
+    <updated>2024-07-09T03:48:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/silver-needle-organic-darjeeling-white-tea-second-flush-2024"/>
+    <title>Silver Needle Organic Darjeeling White Tea Second Flush 2024</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Okayti-Silver-Glitter-4.jpg?v=1690912609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            4.22 - 163.27
+            <a href="https://www.goldentipstea.com/products/silver-needle-organic-darjeeling-white-tea-second-flush-2024">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Sharp &amp; long silver needles having light greenish tinge with a few darkish leaves</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Light yellow</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Mostly light green and brown leaf &amp; bud sets with mild vegetal nose</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">New season 2024 summer flush White Tea tea from the Okayti estate in Darjeeling in the foothills of the Himalayas. The special designer tea has a very mellowed &amp; mildly flavory taste with a soft fruitiness with a pleasant vegetal aroma and ends with a sweet-sour finish. This multiple health-beneficial tea is also a pleasure to brew and drink</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>darjeeling second flush teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>new darjeeling tea</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8432162865430</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">15.34</s:price>
+      <s:sku>SF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8432162865430</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">4.22</s:price>
+      <s:sku>SF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8432162865430</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">36.18</s:price>
+      <s:sku>SF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8432162865430</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">103.12</s:price>
+      <s:sku>SF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8432162865430</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">163.27</s:price>
+      <s:sku>SF-2024-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9599338414358</id>
+    <published>2024-07-02T07:42:06-05:00</published>
+    <updated>2024-07-02T07:42:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/white-horizon-darjeeling-white-tea-second-flush-2024"/>
+    <title>White Horizon Darjeeling White Tea Second Flush 2024</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/JungpanaEX-16-1.jpg?v=1719924817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            7.53 - 291.26
+            <a href="https://www.goldentipstea.com/products/white-horizon-darjeeling-white-tea-second-flush-2024">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Mostly needle-like silver tips with a few dark grey leaves</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Very pale yellow</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Mostly green leaves &amp; buds with some darkish tinge and a soft nose.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">New Season 2024 Exotic early summer-harvest White Tea From The renowned Jungpana estate In Darjeeling. This selectively plucked, hand-rolled &amp; naturally dried offering consists of a very small quantity. The flavour profile is extremely mellowed  with a soft yet distinct fruity flavour, not found in most white teas. The subtle aroma wafts from the cup to this a rarity amongst the finest teas.The multiple health benefits add to the tea's magnificence.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>loose leaf white tea</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9599338414358</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">27.37</s:price>
+      <s:sku>SF-2024-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9599338414358</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">7.53</s:price>
+      <s:sku>SF-2024-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9599338414358</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">64.55</s:price>
+      <s:sku>SF-2024-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9599338414358</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">183.95</s:price>
+      <s:sku>SF-2024-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9599338414358</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">291.26</s:price>
+      <s:sku>SF-2024-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9229760200982</id>
+    <published>2024-03-26T12:55:40-05:00</published>
+    <updated>2024-03-26T12:55:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/white-pride-organic-darjeeling-white-tea-first-flush-2024"/>
+    <title>White Pride Organic Darjeeling White Tea First Flush 2024</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/BadamtamEX-03_1.jpg?v=1711475785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            22.11 - 855.73
+            <a href="https://www.goldentipstea.com/products/white-pride-organic-darjeeling-white-tea-first-flush-2024">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Bold, Downy Silver Buds With Very Few Dark Light Green Leaves
+</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Pale yellow</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Bright Green Buds &amp; Leaves With just a nominal Presence Of Coppery Notes With a Soft Nose.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">New Season 2024 Exotic Spring Flush White Tea From The Renowned And Organic Badamtam Estate In Darjeeling. This Limited-Edition And Most Sought-After Tea Has Been Very Selectively Plucked From Special Bushes And Minimally Processed To Maximise The Retention Of The Flavour &amp; Bouquet. This Is A Very Exclusive Offering That Is Extremely Mellowed, Subtle, Soft, Fragrant And Having A Very Delicate And Mild Floral Aroma With A Soft &amp; Sweetish Finish. Exceptional And Possibly The Best Offering Of The Season.
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>loose leaf white tea</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>organic darjeeling tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9229760200982</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">80.40</s:price>
+      <s:sku>FF-2024-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9229760200982</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">22.11</s:price>
+      <s:sku>FF-2024-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9229760200982</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">189.63</s:price>
+      <s:sku>FF-2024-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9229760200982</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">540.46</s:price>
+      <s:sku>FF-2024-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9229760200982</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">855.73</s:price>
+      <s:sku>FF-2024-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6639380365366</id>
+    <published>2023-08-12T02:15:46-05:00</published>
+    <updated>2023-08-12T02:15:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/gift-boxes-combo-of-masala-chai-oolong-tea-white-tea"/>
+    <title>Gift boxes Combo of Masala chai+ Oolong Tea + Darjeeling White Tea</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/front_1.jpg?v=1733895472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            42.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A collection of the finest teas in attractive cans packed in a designer box, most ideal for gifting.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Masala chai                ( 150 gram )</span></li>
+<li><span data-mce-fragment="1">Oolong Tea                ( 75 gram   )</span></li>
+<li><span data-mce-fragment="1">Darjeeling White Tea ( 50 gram   )</span></li>
+<li>Bulk Tea Enquiries</li>
+<li>https://www.goldentipstea.com/pages/wholesale-bulk-teas</li>
+</ul>
+<p> </p>
+<ul>
+<li>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/bDPVagwaNx4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6639380365366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.75</s:price>
+      <s:sku>GT-409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8162238529814</id>
+    <published>2023-03-17T13:30:36-05:00</published>
+    <updated>2023-03-17T13:30:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/white-pride-organic-darjeeling-white-tea-first-flush-2023"/>
+    <title>White Pride Organic Darjeeling White Tea First Flush 2023</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Badamtam-t-EX-03.jpg?v=1684929969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            18.25 - 706.41
+            <a href="https://www.goldentipstea.com/products/white-pride-organic-darjeeling-white-tea-first-flush-2023">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Bold, Downy Silver Buds With Very Few Dark Light Green Leaves</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Light yellow</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Bright Green Buds &amp; Leaves With Prominnt Presence Of Coppery Notes With A Soft Nose.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">New Season 2023 Exotic Spring Flush White Tea From The Renowned And Organic Badamtam Estate In Darjeeling. This Limited-Edition And Most Sought-After Tea Has Been Very Selectively Plucked From Special Bushes And Minimally Processed To Maximise The Retention Of The Flavour &amp; Bouquet. This Is A Very Exclusive Offering That Is Extremely Mellowed, Subtle, Soft, Fragrant And Having A Very Delicate And Mild Floral Aroma With A Soft &amp; Sweetish Finish. Exceptional And Possibly The Best Offering Of The Season.
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dajeeling tea</s:tag>
+    <s:tag>darjeeling first flush teas</s:tag>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>first flush tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>loose leaf white tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8162238529814</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">66.37</s:price>
+      <s:sku>FF-2023-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8162238529814</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>FF-2023-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8162238529814</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">156.54</s:price>
+      <s:sku>FF-2023-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8162238529814</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">446.15</s:price>
+      <s:sku>FF-2023-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8162238529814</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">706.41</s:price>
+      <s:sku>FF-2023-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8044651249942</id>
+    <published>2022-12-10T23:40:06-06:00</published>
+    <updated>2022-12-10T23:40:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/exclusive-darjeeling-white-tea-full-leaf-pyramid-tea-bags"/>
+    <title>Exclusive Darjeeling White Tea Full Leaf Pyramid Tea Bags</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/White_Tea_Pyramid_tea_bags.jpg?v=1730096024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Experience pure elegance with our Exclusive Darjeeling White Tea Full Leaf Pyramid Tea Bag. Each tea bag is a pyramid of handpicked, full leaf Darjeeling white tea, delivering a delicate and exquisite flavor profile in every cup. Elevate your tea ritual with this exclusive blend.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dajeeling tea</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>darjeeling white teas</s:tag>
+    <s:tag>paper box</s:tag>
+    <s:tag>paper boxes</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8044651249942</id>
+      <title>1.41oz - 30gm -20 Tea Bags</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>706</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187529767</id>
+    <published>2022-09-22T07:29:45-05:00</published>
+    <updated>2022-09-22T07:29:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/white-exotica-tea-tin-can"/>
+    <title>White Exotica Tea - Tin Can</title>
+    <s:type>White Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTL-29-FRONT.jpg?v=1733895735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>White Tea<br>
+        <strong>Price: </strong>
+            11.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">An exotic White Tea from Darjeeling with each leaf picked tenderly and selectively just before sunrise. The fairly long, light &amp; fluffy leaves of this tea type are an absolute visual delight. Cultivated in the picturesque slopes of the Himalayas at altitudes upto 2000 meters, this rare tea type has excellent health benefits and a very high amount of anti-oxidants, vitamins and minerals.</div>
+<p><strong>Learn more about </strong><span style="text-decoration: underline; color: #00aaff;"><strong><a href="https://www.goldentipstea.in/blogs/all/know-about-white-tea" class="link-Button" target="_blank">white teas</a></strong></span></p>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/Ywk79keb2EU?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<style><!--
+.link-Button {
+    padding-top:-10px;
+    text-decoration: none !important;
+    padding-bottom: 0px !important;
+    border-bottom: 0px solid #004b2b !important;
+    color: blue !important;
+}
+.link-Button:hover {
+  background-color: yellow;
+  border-bottom: 2px solid #004b2b !important;
+}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>white exotica tea</s:tag>
+    <s:tag>white tea</s:tag>
+    <s:tag>white teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187529767</id>
+      <title>0.88oz   -     25gm   -   12+ cups</title>
+      <s:price currency="USD">11.10</s:price>
+      <s:sku>GTL-29</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+</feed>

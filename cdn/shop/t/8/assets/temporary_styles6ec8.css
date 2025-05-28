@@ -1,0 +1,248 @@
+/** Shopify CDN: Minification failed
+
+Line 249:0 Expected "*/" to terminate multi-line comment
+
+**/
+#main-nav.nav-row .multi-level-nav .tier-1>ul>li:last-child>a {
+  /* background-color: #C6403A */
+}
+ #shopify-section-dfad266e-bc62-42d3-8d68-f66d2ca985d1 .btn-view-price{
+    background-color: #389c46 !important;
+   box-shadow: 5px 5px 15px #0006;
+  }
+
+#main-nav a.expanded,
+#main-nav li.active>a,
+#main-nav a:hover,
+#main-nav .account-links a:hover,
+#pageheader,
+#pageheader a {
+  /* color: #C6403A */
+}
+
+
+.btn-view-price,
+.moreDetails:hover,
+.moreDetails,
+.seeallbutton,
+input[type="submit"],
+.article a.seeallbutton,
+.btn1 {
+  /* background-color: #C6403A !important; */
+}
+
+.wsmenu-list>li:last-child>a {
+  /* background-color: #C6403A !important; */
+}
+
+.wsmenu-list>li:last-child>a:hover {
+  background-color: #1b7e0c !important;
+}
+
+/* .wsmenu-list>li:last-child>a::before {
+  background-size: contain;
+  background-image: url("/cdn/shop/files/tree.webp?v=1702882008")
+}
+ */
+.seeallbutton {
+  padding: 15px 37px !important;
+  border-radius: 5px !important;
+}
+
+.seeallbutton:hover {
+  background-color: #004b2b !important;
+
+}
+
+.h4-style {
+  padding-top: 10px !important;
+  padding-bottom: 5px !important;
+}
+
+.h_row_4  h3 {
+  font-size: 36px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0;
+  /* color: #c6403a !important; */
+  padding: 36px 0 0 0;
+  position: relative;
+}
+.h_row_content  h3 {
+  font-size: 36px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0;
+  /* color: #c6403a !important; */
+  padding: 36px 0 0 0;
+  position: relative;
+}
+
+.h_row_4 h3::after {
+  content: '';
+  display: table;
+  width: 160px;
+  height: 3px;
+  /* background-color: #c6403a !important; */
+  margin: 14px auto 25px;
+
+}
+.h_row_content h3::after {
+  content: '';
+  display: table;
+  width: 160px;
+  height: 3px;
+  /* background-color: #c6403a !important; */
+  margin: 14px auto 25px;
+
+}
+
+.home-slider {
+  margin: 0 !important;
+}
+
+.btn-view-price {
+  /* background-color: #c6403a !important; */
+  color: #fff !important;
+  max-width: max-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+  font-weight: 700 !important;
+  margin-top: 17px;
+  text-decoration: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.btn-view-price:hover {
+  background-color: #004b2b !important;
+}
+
+
+#shopify-section-dfad266e-bc62-42d3-8d68-f66d2ca985d1>div {
+  background-image: url("https://cdn.shopify.com/s/files/1/0291/9381/files/BG-desktop.png?v=1708692211");
+  /* background-image: url("https://www.goldentipstea.in/cdn/shop/files/sale-background--banner_1.png?v=1728380997"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 17px 0 60px 0;
+  margin-bottom: 45px;
+
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .productlabel.general>span {
+  background: #390d49 !important;
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .product-block .productlabel {
+  position: absolute;
+  top: 20px !important;
+
+  text-align: left;
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .collection-listing .product-list .product-block.detail-mode-permanent {
+  background-color: white !important;
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .btn-view-price {
+  background-color: #b99d6e !important;
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .btn-view-price:hover {
+  /* background-color: #761448 !important; */
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .clearfix h3 a span {
+  color: white !important;
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab h3 a span {
+  color: white !important;
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab h3 {
+  margin-top: 40px;
+  color: white !important;
+}
+
+#shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .majortitle::after {
+  background-color: white !important;
+}
+
+@media(max-width:991px) {
+  #shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 !important;
+  }
+
+  .h_row_content .clearfix h3 {
+    font-size: 25px !important;
+  }
+
+  .sectionheader h2{
+    font-size: 25px !important;
+  }
+
+  #content .product_c {
+    /* padding-top: 0px !important; */
+  /* }
+  .h_row_content .clearfix > p, .font-18{
+    
+  } */
+
+  /* .main_box p {
+    display: none !important;
+  } */
+
+  /* #content .main_box .desc {
+   padding: 13px 0 0 10px !important;
+
+  }
+
+  .price {
+    padding: 10px 0 !important;
+  }
+
+  .main_box { */
+    /* height: 100% !important; */
+  /* } */
+
+
+  @media (max-width: 767px) {
+    #shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .collection-listing .product-block {
+      height: auto !important;
+      width: 46% ;
+      margin-left: 1% ;
+      margin-right: 1% ;
+      border-radius: 6px;
+      overflow: hidden;
+      margin-bottom: 20px !important;
+    }
+
+    #shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab>div {
+      margin-top: 30px !important;
+      margin-bottom: 30px !important;
+    }
+     
+    #shopify-section-dfad266e-bc62-42d3-8d68-f66d2ca985d1>div {
+      background-image: url("../../../../../../cdn.shopify.com/s/files/1/0291/9381/files/BG-mobilefec1.png?v=1708692210") !important;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      text-transform: uppercase;
+      padding: 17px 0 60px 0;
+      margin-bottom: 45px;
+    
+    }
+
+  
+  }
+
+  /* #shopify-section-66172254-9db5-4535-abf4-17cf9e0adcab .collection-listing .product-block .inner {
+    height: auto;
+    max-height: 100% !important;
+  }
+}
+

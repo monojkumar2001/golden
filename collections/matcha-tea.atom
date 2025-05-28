@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/matcha-tea.atom"/>
+  <title>Golden Tips</title>
+  <updated>2021-12-30T23:11:54-06:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6592950403126</id>
+    <published>2021-12-30T23:11:54-06:00</published>
+    <updated>2021-12-30T23:11:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/mint-matcha-japanese-green-tea-powder"/>
+    <title>Mint Matcha Japanese Green Tea Powder</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/JM-13-1.jpg?v=1632900315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            13.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block" data-mce-fragment="1">
+<div class="prodDesc-Block__Text" data-mce-fragment="1">Matcha is a fine stone-ground green tea powder from Japan. The refreshing blend of Mint Matcha is highly beneficial to health and helps in boosting the immune system. Since it is more concentrated in antioxidants, Matcha tea is believed to have 10 times the nutritional value of green tea.</div>
+<br> <iframe title="YouTube video player" src="https://www.youtube.com/embed/E8_5Cdwxws0?rel=0" height="350" width="100%" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe>
+</div>
+<div class="prodDesc-Block" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:tag>matcha</s:tag>
+    <s:tag>matcha tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6592950403126</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">13.80</s:price>
+      <s:sku>JM-13</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/732488564790</id>
+    <published>2021-12-30T23:11:24-06:00</published>
+    <updated>2021-12-30T23:11:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/mint-matcha-japanese-green-tea-50-gm"/>
+    <title>Mint Matcha Japanese Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/mint-1.jpg?v=1666702859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            9.20 - 17.00
+            <a href="https://www.goldentipstea.com/products/mint-matcha-japanese-green-tea-50-gm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Matcha is a fine stone-ground green tea powder from Japan. The refreshing blend of Mint Matcha is highly beneficial to health and helps in boosting the immune system. Since it is more concentrated in antioxidants, Matcha tea is believed to have 10 times the nutritional value of green tea.</div>
+</div>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading"> Exclusively Imported from Japan.</div>
+<!-- Block Content -->
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>matcha</s:tag>
+    <s:tag>matcha tea</s:tag>
+    <s:tag>matcha tea powder</s:tag>
+    <s:tag>mint tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/732488564790</id>
+      <title>1.76oz - 50gm</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku/>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/732488564790</id>
+      <title>3.53oz - 100 gm</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku/>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/417793048615</id>
+    <published>2021-06-16T00:55:41-05:00</published>
+    <updated>2021-06-16T00:55:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/matcha-green-tea-powder"/>
+    <title>Japanese Matcha Green Tea Powder</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/JM-03_1_8bbc5d2b-edc7-4115-9f82-2f477db67aed.jpg?v=1720243546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            26.80 - 175.80
+            <a href="https://www.goldentipstea.com/products/matcha-green-tea-powder">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text"><span data-mce-fragment="1">This truly detoxifying drink is the secret to mental &amp; physical wellness. According to an 8th-century Zen priest, Eisai, Matcha is the ultimate mental &amp; medical remedy and has the ability to make one's life more full and complete. Stone-ground powdered Japanese Matcha Green Tea is grown and processed in tranquil surroundings and pollution-free Shizuoka prefecture in Japan. <br></span></div>
+<br>
+<div class="prodDesc-Block__Text">READ ABOUT : <a href="https://www.goldentipstea.com/blogs/all/top-10-amazing-health-benefits-of-matcha-green-tea?" target="_blank">AMAZING HEALTH BENEFITS OF MATCHA GREEN TEA</a><iframe src="https://www.youtube.com/embed/pYyzJVpK1w4?rel=0" style="font-size: 1.4em;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="300" frameborder="0"></iframe><br>
+</div>
+</div>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Exclusively Imported from Japan.</div>
+<!-- Block Content -->
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>matcha</s:tag>
+    <s:tag>matcha tea</s:tag>
+    <s:tag>matcha tea powder</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/417793048615</id>
+      <title>3.53oz   -   100gm   -   50 cups - Tin Can</title>
+      <s:price currency="USD">26.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/417793048615</id>
+      <title>35.27oz - 1000gm - 500 Cups - Zipper Pouch</title>
+      <s:price currency="USD">175.80</s:price>
+      <s:sku>JM-06</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/417793048615</id>
+      <title>17.64oz -    500gm  -  250 cups - Zipper Pouch</title>
+      <s:price currency="USD">87.90</s:price>
+      <s:sku>JM-05</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6592940015670</id>
+    <published>2021-06-05T03:56:18-05:00</published>
+    <updated>2021-06-05T03:56:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/japanese-matcha-green-tea-powder-tin-box"/>
+    <title>Japanese Matcha Green Tea Powder - Tin Box</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/JM02.jpg?v=1666702389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            18.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block" data-mce-fragment="1">
+<div class="prodDesc-Block__Text" data-mce-fragment="1"><span>This truly detoxifying drink is the secret to mental &amp; physical wellness. According to an 8th-century Zen priest, Eisai, Matcha is the ultimate mental &amp; medical remedy and has the ability to make one's life more full and complete. Stone-ground powdered Japanese Matcha Green Tea is grown and processed in tranquil surroundings and pollution-free Shizuoka prefecture in Japan. Available in attractive Tin Box Packaging</span></div>
+<br>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/E8_5Cdwxws0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>matcha</s:tag>
+    <s:tag>matcha tea</s:tag>
+    <s:tag>matcha tea powder</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6592940015670</id>
+      <title>1.76oz   -     50gm   -   25 cups</title>
+      <s:price currency="USD">18.40</s:price>
+      <s:sku>JM-02</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6592939950134</id>
+    <published>2021-06-05T03:56:16-05:00</published>
+    <updated>2021-06-05T03:56:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/japanese-matcha-green-tea-powder-tin-box-round"/>
+    <title>Japanese Matcha Green Tea Powder - Tin Box Round</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/61Lbx7YUoTL._SL1000.jpg?v=1624432990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            14.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block" data-mce-fragment="1">
+<div class="prodDesc-Block__Text" data-mce-fragment="1"><span>This truly detoxifying drink is the secret to mental &amp; physical wellness. According to an 8th-century Zen priest, Eisai, Matcha is the ultimate mental &amp; medical remedy and has the ability to make one's life more full and complete. Stone-ground powdered Japanese Matcha Green Tea is grown and processed in tranquil surroundings and pollution-free Shizuoka prefecture in Japan. Available in attractive Round Tin Box Packaging</span></div>
+<br>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/E8_5Cdwxws0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>matcha</s:tag>
+    <s:tag>matcha tea</s:tag>
+    <s:tag>matcha tea powder</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6592939950134</id>
+      <title>1.05oz   -     30gm   -   15 cups</title>
+      <s:price currency="USD">14.80</s:price>
+      <s:sku>JM-04</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/732487221302</id>
+    <published>2018-08-02T08:02:03-05:00</published>
+    <updated>2018-08-02T08:02:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/lemon-matcha-japanese-green-tea-50-gm"/>
+    <title>Lemon Matcha Japanese Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Lmeon.jpg?v=1666702776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            12.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Matcha is a fine stone-ground green tea powder from Japan. Lemon Matcha has the added benefits of lemon, making this blend highly beneficial to health and perfect for weight loss. Since it is more concentrated in antioxidants, Matcha tea is believed to have 10 times the nutritional value of green tea.</div>
+</div>
+<p> </p>
+<p><span style="font-weight: 400;">Know more: <a href="https://www.goldentipstea.in/blogs/all/does-green-tea-work-for-weight-loss" target="_blank">How Green Tea Works for Weight Loss?</a></span></p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/pYyzJVpK1w4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading"> Exclusively Imported from Japan.</div>
+<!-- Block Content -->
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>lemon green tea</s:tag>
+    <s:tag>lemon tea</s:tag>
+    <s:tag>matcha</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/732487221302</id>
+      <title>1.76oz – 50gm – 25 cups</title>
+      <s:price currency="USD">12.80</s:price>
+      <s:sku>JM-09</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

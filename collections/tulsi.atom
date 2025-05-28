@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/tulsi.atom"/>
+  <title>Golden Tips</title>
+  <updated>2025-02-27T00:52:26-06:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/2265159303222</id>
+    <published>2025-02-27T00:52:26-06:00</published>
+    <updated>2025-02-27T00:52:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/potent-potpourri-moringa-green-tea"/>
+    <title>Potent Potpourri - Moringa  Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTL-64-FRONT.jpg?v=1719469660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Potent Potpourri:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">A classy combination of Moringa, Orange Peel, Chamomile Tulsi Ginger Rose, Licorice, Mint and Lemon Grass expertly blended with green Tea. The perfect drink for relaxing you mind and body.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Improve digestion, reduce gas, cramps &amp; eliminates acne, scars. Antioxidant-rich and good for immune and respiratory boosting.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">Can also be served chilled. Milk best avoided.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/2265159303222</id>
+      <title>3.52oz – 100gm  - 50 cups</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku>GTL-64</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/4911575892022</id>
+    <published>2021-02-04T23:59:29-06:00</published>
+    <updated>2021-02-04T23:59:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/herbyoga-tulsi-turmeric-lavender-herbal-tea"/>
+    <title>Herbyoga - Tulsi, Turmeric &amp; Lavender Herbal Tea</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Turmeric-Tusli-_-Lavender-Herbal-Tea-4.jpg?v=1612941768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Our tea Taster produces a very healthy herbal tea with a very old and medicinal, ancient invaluable spice</p>
+<p data-mce-fragment="1">Turmeric" this condiment has anti-inflammatory properties that help boss immune function and relieve muscle pain.</p>
+<p data-mce-fragment="1">Tulsi "(Holy Basil) is grown in every Hindu household and people not only consume but also worship it every day to spread positive vibes at Home. the calming effect of Lavender in the body is also thought to boost sleep.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">"Turmeric, Tulsi (Holy Basil) &amp; Lavender Tea is a zero caffeine herbal tea"</strong></p>
+<div data-mce-fragment="1">
+<span style="color: #00aaff;"> <strong data-mce-fragment="1"><span color="#00aaff" data-mce-fragment="1">Ingredients-</span></strong></span><span color="#000000" data-mce-fragment="1"></span>
+</div>
+<div style="text-align: left;" data-mce-fragment="1" data-mce-style="text-align: left;">
+<div data-mce-fragment="1"><span color="#000000" data-mce-fragment="1"> Tulsi</span></div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"> Turmeric</span></div>
+<div data-mce-fragment="1"> <span data-mce-fragment="1">Lavender</span>
+</div>
+</div>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herbal tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/4911575892022</id>
+      <title>100 gram/3.52oz</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>HY-005</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

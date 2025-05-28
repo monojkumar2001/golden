@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/rose-tea.atom"/>
+  <title>Golden Tips</title>
+  <updated>2023-11-04T04:54:03-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8808772010262</id>
+    <published>2023-11-04T04:54:03-05:00</published>
+    <updated>2023-11-04T04:54:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/blue-quintuple-assortment-of-five-alluring-blue-teas"/>
+    <title>Blue Quintuple Assortment of Five Alluring Blue Teas</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/WhatsAppImage2023-11-10at5.35.36PM.jpg?v=1699619173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            10.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">An assortment of five alluring Blue Teas. Each variant has Pea Butterfly blended with various exotic herbs &amp; flower petals to offer variable yet delicious &amp; health beneficial infusions to relish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted teas</s:tag>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>new darjeeling tea</s:tag>
+    <s:tag>rose herbal tea</s:tag>
+    <s:tag>rose tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8808772010262</id>
+      <title>1.76oz -  50 Gram - 25 cups</title>
+      <s:price currency="USD">10.82</s:price>
+      <s:sku>GT-445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8808731509014</id>
+    <published>2023-11-04T04:14:42-05:00</published>
+    <updated>2023-11-04T04:14:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/blue-myriad-infusion-blue-tea"/>
+    <title>Blue Myriad Infusion Blue Tea</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-444.jpg?v=1699089284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            7.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ingredients: Pea Butterfly, Lemongrass, Moringa, Hibiscus and Rose Petals</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8808731509014</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">7.09</s:price>
+      <s:sku>GT-444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8808245690646</id>
+    <published>2023-11-04T02:59:55-05:00</published>
+    <updated>2023-11-04T02:59:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/turquoise-trail-infusion-blue-tea"/>
+    <title>Turquoise Trail Infusion Blue Tea</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-443.jpg?v=1699084797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ingredients: Pea Butterfly, Lemongrass, Moringa, Peppermint and Rose Petals.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>rose tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8808245690646</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">8.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8808114454806</id>
+    <published>2023-11-04T02:47:08-05:00</published>
+    <updated>2023-11-04T02:47:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/blue-blush-pure-butterfly-and-rose-petals-infusion-blue-tea"/>
+    <title>Blue Blush Pure Butterfly and Rose Petals Infusion Blue Tea</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-442.jpg?v=1699089614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pure Butterfly and Rose Petals</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8808114454806</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">8.91</s:price>
+      <s:sku>GT-442</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6847350243382</id>
+    <published>2022-08-30T13:35:30-05:00</published>
+    <updated>2022-08-30T13:35:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/a-collection-of-some-of-the-finest-indian-herbs-floral-petals-with-varied-aromas-tea-gift-box"/>
+    <title>FLAVOURY FINE FETTLE - Six Refreshing Fruit Infusions</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/FLAVOUR1.png?v=1733825749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Introducing FLAVOURY FINE FETTLE - a collection of the finest Indian herbs and Floral Petals carefully crafted to bring out a perfect blend of Aroma, Taste, and Health benefits. Each pack is air-sealed and beautifully packaged in a gift box, </span></p>
+<p><span><strong>Floral Delight (black tea):</strong> Classic rose with a touch of sweetness (stevia) and tartness (hibiscus)</span></p>
+<p data-sourcepos="5:1-5:119"><strong>Amethyst Ardor (purple tea):</strong><span> Naturally caffeine-free,</span><span> known for its delicate floral aroma and slightly sweet taste.</span></p>
+<p data-sourcepos="7:1-7:97"><strong>Green Grass (lemon green tea):</strong><span> Invigorating green tea with a refreshing citrus twist (lemon).</span></p>
+<p data-sourcepos="9:1-9:28"><strong>Green Blush (green tea):</strong><span> Romantic blend of green tea and rose petals,</span><span> offering a calming floral fragrance and smooth taste.</span></p>
+<p data-sourcepos="11:1-11:54"><strong>Empyrean Azure (blue tea):</strong><span> Naturally caffeine-free butterfly pea flower tea with a subtle floral aroma and beautiful blue color.</span></p>
+<p data-sourcepos="13:1-13:134"><strong>Hibiscus Rose (black tea):</strong><span> Tangy and refreshing black tea with vibrant hibiscus flowers,</span><span> resulting in a beautiful ruby red color.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6847350243382</id>
+      <title>60 Gram - 5.29Oz - 30 Cups</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>GT-416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263181140007</id>
+    <published>2020-01-20T03:52:54-06:00</published>
+    <updated>2020-01-20T03:52:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/black-blush-loose-leaf-rose-black-tea"/>
+    <title>Black Blush - Rose Black Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/61x1j1LE2ML._SL1000.jpg?v=1641983026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            0.60 - 22.56
+            <a href="https://www.goldentipstea.com/products/black-blush-loose-leaf-rose-black-tea">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A fine high-grown Black Tea blended with delicately plucked and fragrant Rose petals, to create a sweet and pleasant flavour. Black Tea combined with Rose petals, makes for a healthy beverage, as also a delicious cup to relish anytime of the day.</div>
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>herbal black tea</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181140007</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>GT-270-100GM</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181140007</id>
+      <title>0.35oz   -      10gm   -    5 cups</title>
+      <s:price currency="USD">0.60</s:price>
+      <s:sku>GT-270-10GM</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181140007</id>
+      <title>10.58oz -   300gm  -  150 cups</title>
+      <s:price currency="USD">14.24</s:price>
+      <s:sku>GT-270-300GM</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181140007</id>
+      <title>17.64oz -    500gm  -  250 cups</title>
+      <s:price currency="USD">22.56</s:price>
+      <s:sku>GT-270-500GM</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263181041703</id>
+    <published>2020-01-20T03:52:54-06:00</published>
+    <updated>2020-01-20T03:52:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/hibiscus-rose-black-tea-50g-1-76oz"/>
+    <title>Hibiscus Rose Black Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/BlackPouch-4.jpg?v=1644482830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            10.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">Fine whole-leaf Black Tea blended with dried Hibiscus and Rose petals. Hibiscus, also the national flower of several countries, is loved for its sour, lemony-tart and berryish flavors and has several health benefits. It is believed to help cure stomach disorders, high blood pressure, bacterial infections, reduce fevers, induce weight-loss, is anti-diabetic, and promotes general well-being. The addition of fragrant and sweet rose petals makes this a delicious drink which can be drunk hot or cold and along with some honey.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>herbal black tea</s:tag>
+    <s:tag>rose black tea</s:tag>
+    <s:tag>rose tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181041703</id>
+      <title>1.76oz   -     50gm   -   25 cups</title>
+      <s:price currency="USD">10.45</s:price>
+      <s:sku>GT-312</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263180976167</id>
+    <published>2020-01-20T03:52:54-06:00</published>
+    <updated>2020-01-20T03:52:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/green-blush-rose-green-tea-100g-3-53oz"/>
+    <title>Green Blush - Rose Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Green-Blush-Rose-Green-Tea.jpg?v=1599129308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A fine high-grown Green Tea blended with delicately plucked and fragrant Rose petals, to create a sweet and pleasant flavour. Green Tea, well-known for its multiple health benefits combined with Rose petals, makes for delicious cup to relish anytime of the day.</div>
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>herbal green tea</s:tag>
+    <s:tag>herbal tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263180976167</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>GT-269-100GM</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+</feed>

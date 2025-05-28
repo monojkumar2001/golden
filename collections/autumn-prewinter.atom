@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/autumn-prewinter.atom"/>
+  <title>Golden Tips</title>
+  <updated>2024-10-24T04:10:04-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9162781851926</id>
+    <published>2024-10-24T04:10:04-05:00</published>
+    <updated>2024-10-24T04:10:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/flavoury-collection-darjeeling-whole-leaf-teas-gift-box"/>
+    <title>Flavoury Collection Darjeeling Whole Leaf Teas Gift Box</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/2_c6a60b60-90de-41af-9a45-7e57525ae157.jpg?v=1733894899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            18.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Unique assemblage of six different whole-leaf teas from Darjeeling - First Flush, Second Flush, Autumn Flush, Green, White &amp; Oolong. These delightful teas are certain to overwhelm any tea connoisseur. So go ahead and enjoy the finest teas in the world, with this assortment packed in individual tin caddies with illustrations associated with Darjeeling sightseeing spots. Brought to you in a gift box by Golden Tips - India’s oldest &amp; most reputed name in quality teas since 1933.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collections</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>dajeeling tea</s:tag>
+    <s:tag>darjeeling black tea</s:tag>
+    <s:tag>darjeeling first flush teas</s:tag>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>darjeeling second flush teas</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>darjeeling white tea</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>golden tips white tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9162781851926</id>
+      <title>125 Gram - 4.40 oz - 62 Cups</title>
+      <s:price currency="USD">18.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

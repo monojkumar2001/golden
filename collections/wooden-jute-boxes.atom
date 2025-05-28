@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/wooden-jute-boxes.atom"/>
+  <title>Golden Tips</title>
+  <updated>2025-05-03T07:40:12-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263184973863</id>
+    <published>2025-05-03T07:40:12-05:00</published>
+    <updated>2025-05-03T07:40:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pride-of-darjeeling-rare-first-flush-tea-pinewood-box"/>
+    <title>Pride Of Darjeeling - Rare First Flush Tea in Pinewood Box with Zardosi Work on Velvet Pouch</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/pod-sf-1.jpg?v=1733896017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            37.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Description :</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">An outstanding and rare First Flush Tea packed in a Pinewood Box for connoisseurs of Golden Tips across the globe. Originating in Darjeeling, from the area which produces one of the finest teas in the world, this early spring selection consisting of the most tender leaves, has a delightful floral aroma with a mellowed Colour and makes for a very extraordinary and outstanding cup to relish.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Packaging:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Velvet pouch with a handcrafted peacock in golden thread, packed in an elegant pinewood box.</div>
+</div>
+<br> <iframe class="h-lg-320" width="100%" height="216px" src="https://www.youtube.com/embed/FMHyl5QjGg4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263184973863</id>
+      <title>200g/7.05oz</title>
+      <s:price currency="USD">37.83</s:price>
+      <s:sku>GT-40-FF</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263186710567</id>
+    <published>2019-12-05T03:35:12-06:00</published>
+    <updated>2019-12-05T03:35:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/6-in-1-jute-box-darjeeling-assam-nilgiri-sikkim-kangra-dooars-teas"/>
+    <title>6-in-1 Delightful Teas (Darjeeling, Assam, Nilgiri, Sikkim, Kangra &amp; Dooars) in Handcrafted Jute Box</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/6_in_1_Jute_Box.jpg?v=1733896282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A unique collection of whole leaf teas from Darjeeling, Assam, Nilgiri, Sikkim, Kangra &amp; Dooars, the six different tea growing regions in India. As distinct as the culture of the regions they come from, these delightful teas are certain to pamper any tea connoisseur. So go ahead &amp; celebrate India, the land where grow the finest teas in the world, with this assortment packed in individual cartons with illustrations associated with the region.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted teas</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>jute box</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263186710567</id>
+      <title>10.58oz -   300gm  -  150 cups</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>GT-35</s:sku>
+      <s:grams>840</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263188414503</id>
+    <published>2019-10-29T08:42:44-05:00</published>
+    <updated>2019-10-29T08:42:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pride-of-darjeeling-rare-second-flush-tea-pinewood-box"/>
+    <title>Pride Of Darjeling Rare Second Flush Tea in Pinewood Box with Zardosi Work on Velvet Pouch</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/1_997418e8-bfe9-4ecd-8fba-f3f877ee402a.jpg?v=1733897042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            33.55 - 49.00
+            <a href="https://www.goldentipstea.com/products/pride-of-darjeeling-rare-second-flush-tea-pinewood-box">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A unique Darjeeling tea with a pronounced rare muscatel flavor. High grown amidst the misty mountains and sheltered by the snow-capped Himalayas. This tea is one of the best offerings from the world's most famous tea-growing region, aptly named 'Pride of Darjeeling'.</div>
+<br>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/7Yz0rchp09I?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188414503</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">33.55</s:price>
+      <s:sku>GT-39-SF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188414503</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>GT-40-SF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263188512807</id>
+    <published>2019-08-23T01:46:02-05:00</published>
+    <updated>2019-08-23T01:46:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/3-in-1-jute-box-darjeeling-assam-nilgiri-teas"/>
+    <title>3-in-1 Delightful Teas (Darjeeling, Assam &amp; Nilgiri) in Handcrafted Jute Box</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/3_in_1_Jute_Box.jpg?v=1733897110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            23.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A collection of three delightful Indian black teas from Darjeeling, Nilgiri, and Assam. As distinct as the culture of the regions they come from, these whole leaf teas will certainly pamper any tea connoisseur. Go ahead &amp; celebrate India- the land where finest teas in the world grow- with this assortment packed in individual cartons having illustrations associated with the region. Exquisitely packaged in a handmade eco-friendly and natural jute box, it is a perfect gift for all occasions.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188512807</id>
+      <title>5.29oz   -     150gm   -   75 cups</title>
+      <s:price currency="USD">23.50</s:price>
+      <s:sku>GT-7</s:sku>
+      <s:grams>520</s:grams>
+    </s:variant>
+  </entry>
+</feed>

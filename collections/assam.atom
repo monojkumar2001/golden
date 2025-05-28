@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/assam.atom"/>
+  <title>Golden Tips</title>
+  <updated>2025-03-21T06:45:22-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263184384039</id>
+    <published>2025-03-21T06:45:22-05:00</published>
+    <updated>2025-03-21T06:45:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/assam-full-leaf-pyramid-20-tea-bags-40g"/>
+    <title>Assam Full Leaf Pyramid - Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Assam_Pyramid_tea_bags.jpg?v=1730095232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A strong &amp; matured tea from the lush estates of Assam containing rare golden-tipped leaves. This tea is characterized by a pronounced malty flavor &amp; dark red Colour, ideal for tea lovers whose weakness is strength.</div>
+</div>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Each Teabag contains 2gms tea.</div>
+<!-- Block Content -->
+</div>
+<div class="text-center mb-3 mt-3"><iframe style="box-shadow: 0 0 10px #80808047;" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube.com/embed/edHzv4AwI0M?rel=0" width="560" height="315" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assam tea</s:tag>
+    <s:tag>paper box</s:tag>
+    <s:tag>paper boxes</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263184384039</id>
+      <title>1.41oz   -     40gm   -   20 cups</title>
+      <s:price currency="USD">17.50</s:price>
+      <s:sku>GT-702</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9898565861654</id>
+    <published>2025-03-21T04:09:53-05:00</published>
+    <updated>2025-03-21T04:09:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/fine-ctc-tea"/>
+    <title>Fine CTC Tea</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-228.png?v=1742547163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            9.99 - 25.00
+            <a href="https://www.goldentipstea.com/products/fine-ctc-tea">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A specially selected bright-liquoring tea with a very refreshingly distinct taste and strength that promises to enliven your mornings and evenings like never before.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assam black tea</s:tag>
+    <s:tag>assam tea</s:tag>
+    <s:tag>assam teas</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>ctc tea</s:tag>
+    <s:tag>fine ctc</s:tag>
+    <s:tag>fine ctc tea</s:tag>
+    <s:tag>new</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9898565861654</id>
+      <title>8.81oz - 250 gm - 125 cups</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>GT-226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9898565861654</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>GT-227</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9898565861654</id>
+      <title>35.27 - 1 kg - 500 cups</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>GT-228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9773110198550</id>
+    <published>2024-11-11T06:47:22-06:00</published>
+    <updated>2024-11-11T06:47:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/golden-glaze-assam-black-tea-late-second-flush-2024"/>
+    <title>Golden Glaze Assam Black Tea Late Second Flush 2024</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/dhelakhat-1.jpg?v=1731328451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            5.28 - 204.29
+            <a href="https://www.goldentipstea.com/products/golden-glaze-assam-black-tea-late-second-flush-2024">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Golden Tips with few shades of dark grey.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Colour:</div>
+<div class="prodDesc-Block__Text">Bright Amber</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Bright coppery.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">Late Summer tea from the well-managed Dhelakhat estate in upper Assam. Hand-sorted and patiently rolled, this specially-made miniature lot consists of pure golden tips. The liquor is consistent &amp; bright and has a very smooth, flavoury and mildly malty taste that is reminiscent of roasted almonds. The cuppa is one that makes Assam proud.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assam black tea</s:tag>
+    <s:tag>assam second flush tea</s:tag>
+    <s:tag>assam tea</s:tag>
+    <s:tag>assam teas</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>second flush tea</s:tag>
+    <s:tag>second flush teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9773110198550</id>
+      <title>1.41oz - 40gm -20 cups</title>
+      <s:price currency="USD">19.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9773110198550</id>
+      <title>0.35oz - 10 gm - 5 cups</title>
+      <s:price currency="USD">5.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9773110198550</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">45.27</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9773110198550</id>
+      <title>10.58oz - 300 gm - 150 cups</title>
+      <s:price currency="USD">129.03</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9773110198550</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">204.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9618259050774</id>
+    <published>2024-07-16T07:25:05-05:00</published>
+    <updated>2024-07-16T07:25:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/24-carat-golden-tips-exotic-assam-tea-second-flush-2024"/>
+    <title>24 Carat Golden Tips Exotic Assam Tea Second Flush 2024</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Assammakaibaari1.jpg?v=1721132120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            48.09 - 90.82
+            <a href="https://www.goldentipstea.com/products/24-carat-golden-tips-exotic-assam-tea-second-flush-2024">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Dry Leaf:</div>
+<div class="prodDesc-Block__Text">Well-rolled pure golden leaves.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Color:</div>
+<div class="prodDesc-Block__Text">Bright amber</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Tea Infusion:</div>
+<div class="prodDesc-Block__Text">Bright coppery buds &amp; leaves with a very pleasant fragrant nose.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">An exceptional &amp; rare Tea passionately made from selective leaves plucked at the Mokalbari estate, on the banks of the Brahmaputra river upper Assam. This tea made from a special tea clone consisting of pure &amp; tender golden tips, is not just outstanding in the cup but also a visual delight. The smooth &amp; pronounced flavor that enchants with its clonal elements, the unmissable mild sweetness, the refined subtlety of this very special offering and the mouthful and rounded flavor, all combine to make the olfactory senses dazzle. Addition of a dash of milk can give a new twist to the taste of this most exotic tea.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assam black tea</s:tag>
+    <s:tag>assam second flush tea</s:tag>
+    <s:tag>assam tea</s:tag>
+    <s:tag>assam teas</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>Season/Flush Second Flush</s:tag>
+    <s:tag>second flush tea</s:tag>
+    <s:tag>second flush teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9618259050774</id>
+      <title>0.89oz- 25gm - 12 cups</title>
+      <s:price currency="USD">48.09</s:price>
+      <s:sku>SF-2024-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9618259050774</id>
+      <title>1.76oz - 50gm - 25 cups</title>
+      <s:price currency="USD">90.82</s:price>
+      <s:sku>SF-2024-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187103783</id>
+    <published>2021-08-31T08:06:18-05:00</published>
+    <updated>2021-08-31T08:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pure-assam-tea-royal-brocade-cloth-bag"/>
+    <title>Pure Assam Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Pure-Assam-Tea---Royal-Brocade-Cloth-Bag_38cc1e35-1aaa-466c-9d5c-0e43f03616a6.jpg?v=1665234533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            7.70 - 13.75
+            <a href="https://www.goldentipstea.com/products/pure-assam-tea-royal-brocade-cloth-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A Fine Selection of black tea from the lush estates of Assam. This sparkling orthodox tea contains rare golden- tipped leaves and is characteristic of a pronounced malty flavour with a bright Colour &amp; enduring aroma. Ideal for lovers whose weakness is strength and who also relish their cuppa with a dash of milk. Delight in the unique character of the best Assam has to offer: a bold and bright concoction that will leave you feeling empowered and energized every day!</div>
+<div class="prodDesc-Block_Text"></div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div>
+<div class="text-center mb-3 mt-3"><iframe style="box-shadow: 0 0 10px #80808047;" title="YouTube video player" src="https://www.youtube.com/embed/edHzv4AwI0M?rel=0" width="100%" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe></div>
+<!--Video Markup Code Generated by https://videoschema.com/ -->
+<div itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+<h2><span itemprop="name">Flavours of Assam Teas</span></h2>
+<meta content="PT57S" itemprop="duration"> <meta content="2020-07-03T05:32:36Z" itemprop="uploadDate"> <meta content="https://i.ytimg.com/vi/vk14u-Gos5c/default.jpg" itemprop="thumbnailURL"> <meta content="350" itemprop="interactionCount"> <meta content="https://youtube.googleapis.com/v/vk14u-Gos5c" itemprop="embedURL">
+<div id="schema-videoobject" class="video-container"><iframe width="100%" height="480" src="https://www.youtube.com/embed/vk14u-Gos5c?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></div>
+<span itemprop="description">Assam teas are known for rich, strong, and full-bodied, malty flavors. Due to its reddish amber color, tea lovers find it almost hard to resist. Explore Now https://www.goldentipstea.in/collections/assam</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187103783</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">7.70</s:price>
+      <s:sku>GT-61</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187103783</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">13.75</s:price>
+      <s:sku>GT-60</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/514766438454</id>
+    <published>2019-08-28T06:18:22-05:00</published>
+    <updated>2019-08-28T06:18:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/assam-kadak-chai-spicy-masala-blend-500gm-17-6oz-250-cups"/>
+    <title>Assam Kadak Chai, Spicy Masala Tea Blend</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-350.jpg?v=1722859350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            11.99 - 21.99
+            <a href="https://www.goldentipstea.com/products/assam-kadak-chai-spicy-masala-blend-500gm-17-6oz-250-cups">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">This unique &amp; ancient preparation contains a strong flavoury black tea blended with a variety of aromatic Assam Kadak spices.</div>
+  
+  <div class="text-dark fw-900 fs-20" style="font-size: 20px;margin-bottom: 10px;margin-top:10px">
+Can also be served chilled.Best with milk.</div>
+  
+<div class="prodDesc-Block_Text">A spicy blend of strong CTC tea with handpicked spices to be prepared the traditional way.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Ingredients:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Cardamom, Cinnamon, Clove, Ginger, Bay Leaves &amp; CTC Tea.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion</li>
+<li style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage</li>
+<li style="margin-bottom: 5px;">Boost Energy, and Immunity.</li>
+</ul>
+</div>
+<div class="text-center mb-3 mt-3"><iframe style="box-shadow: 0 0 10px #80808047;" title="YouTube video player" src="https://www.youtube.com/embed/k8-iKDSoZ78?rel=0" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chai teas</s:tag>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>ctc tea</s:tag>
+    <s:tag>kadak chai</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/514766438454</id>
+      <title>7.05oz   -     250gm   -   125 cups Pouch</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>GT-371</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/514766438454</id>
+      <title>17.64oz -    500gm  -  250 cups Paper Box</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>GT-350</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/503853088822</id>
+    <published>2018-02-20T06:38:19-06:00</published>
+    <updated>2018-02-20T06:38:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/ginger-mastea-indian-masala-chai-350gm"/>
+    <title>Ginger Mastea - Indian Masala Chai</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/ginger2.jpg?v=1686661039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            13.99 - 22.99
+            <a href="https://www.goldentipstea.com/products/ginger-mastea-indian-masala-chai-350gm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+    <!-- Block Content -->
+    <div class="prodDesc-Block_Text">A classic blend of strong CTC tea with a host of selected Indian spices along with the aromatic and pungent Ginger. This traditional recipe makes for an unforgettable drink that is best served in a shot glass or clay cup.
+</div>
+    <!-- Block -->
+    <div class="prodDesc-Block mt-4">
+      <div class="text-dark fs-20" style="font-size: 20px;margin-bottom: 10px;">Can also be served chilled. Best with milk.</div>
+        <!-- Block Heading -->
+        <div class="prodDesc-Block">
+            <!-- Block Heading -->
+            <div class="prodDesc-Block__Heading">Ingredients:</div>
+            <!-- Block Content -->
+            <div class="prodDesc-Block__Text">CTC Tea, Cinnamon, Green Cardamom, Cloves, Dry ginger</div>
+            </div>
+        <!-- Block Content -->
+        <div class="prodDesc-Block__Heading">How to Prepare Ginger Mastea - Indian Masala Chai</div>
+        <ul style="margin-left: 18px;margin-top: 7px;">
+<li style="margin-bottom: 5px;">Mix 1 portion milk &amp; 2 portion of water. Bring to a boil.</li>
+<li style="margin-bottom: 5px;">Add 1 Tsp. of Ginger Mastea Tea Leaves to the boil.</li>
+<li style="margin-bottom: 5px;">Boil for a min. till the mix fares up thrice.</li>
+<li style="margin-bottom: 5px;">Add Sugar and Stir</li>
+<li style="margin-bottom: 5px;">Strain and Serve        </li>
+            
+    
+          
+        </ul>
+        <iframe class="responsive-iframe" width="560" height="330" src="https://www.youtube.com/embed/ruQG5pz4Zhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        
+   </div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assam tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>ctc tea</s:tag>
+    <s:tag>spicy teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/503853088822</id>
+      <title>7.05oz   -     250gm   -   125 cups Pouch</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>GT-370</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/503853088822</id>
+      <title>12.45oz - 500gm - 250 cups Paper Box</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>GT-338</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263188348967</id>
+    <published>2017-10-27T04:47:20-05:00</published>
+    <updated>2017-10-27T04:47:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/assam-tea-tin-can"/>
+    <title>Assam Tea - Tin Can</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTL-02_2.jpg?v=1733896893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A fine selection of black tea from the lush estates of Assam. This sparkling offering contains rare golden-tipped leaves &amp; has a pronounced malty flavour with a bright Colour &amp; enduring aroma. Ideal for tea lovers whose weakness is strength and who also relish their cuppa with a dash of milk.</div>
+</div>
+<div class="text-center mb-3 mt-3"><iframe style="box-shadow: 0 0 10px #80808047;" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube.com/embed/edHzv4AwI0M?rel=0" width="100%" height="315" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assam black tea</s:tag>
+    <s:tag>assam tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188348967</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">9.38</s:price>
+      <s:sku>GTL-2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263187628071</id>
+    <published>2017-10-27T04:46:29-05:00</published>
+    <updated>2017-10-27T04:46:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/english-breakfast-tea-tin-can"/>
+    <title>English Breakfast Tea - Tin Can</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gtl-22_1.jpg?v=1733896486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            6.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- video -->
+<div class="mb-3"><iframe width="100%" height="315" src="https://www.youtube.com/embed/kiQfYFEZC_c?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">Initially known as Breakfast Tea, English breakfast is the most popular tea blend in the world. Popularized by the Queen Victoria of England, this robust tea is traditionally associated &amp; paired with a hearty English breakfast. Our signature breakfast tea blend contains some of the finest tea leaves from Assam.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>english breakfast tea</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263187628071</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">6.51</s:price>
+      <s:sku>GTL-22</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263178977319</id>
+    <published>2017-10-27T04:36:13-05:00</published>
+    <updated>2017-10-27T04:36:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/golden-tips-masala-chai-indias-authentic-spiced-tea-jar-pack"/>
+    <title>Masala Chai India&apos;s Authentic Spiced Tea - Value Pack</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-439_2_-fotor-2024111311343.jpg?v=1731478203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            9.99 - 23.99
+            <a href="https://www.goldentipstea.com/products/golden-tips-masala-chai-indias-authentic-spiced-tea-jar-pack">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">An age-old classic, Masala Chai, literally meaning 'Spiced Tea' is one of the most popular tea blends in the world, originating from India. This unique and ancient preparation contains a strong flavoury Black Tea blended with a variety of aromatic spices.</div>
+<!-- Block -->
+<div class="prodDesc-Block mt-4">
+<div class="text-dark fs-20" style="font-size: 20px; margin-bottom: 10px;">Can also be served chilled.Best with milk.</div>
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion,</li>
+<li style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage,</li>
+<li style="margin-bottom: 5px;">Clove contains compounds that help in improving the immune system.</li>
+<li style="margin-bottom: 5px;">Cardamom has been used as a digestive which improves circulatory and digestive systems.</li>
+<li style="margin-bottom: 5px;">Cinnamon has anti-inflammatory properties which help the body fight infections.</li>
+</ul>
+<div class="prodDesc-Block__Heading">How to prepare Masala Chai</div>
+<strong style="font-size: 16px;">Standard preparation without milk</strong>
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">Take 1 teaspoon of Golden Tips Masala Chai in a cup.</li>
+<li style="margin-bottom: 5px;">Pour 200 ml of freshly boiled water over the tea leaves.</li>
+<li style="margin-bottom: 5px;">Steep for 3-5 minutes as the leaves unfurled fully.</li>
+<li style="margin-bottom: 5px;">Strain the tea leaves using a strainer</li>
+<li style="margin-bottom: 5px;">Add sugar or honey as a sweetener.</li>
+</ul>
+<strong style="font-size: 16px;">Standard preparation with milk</strong>
+<ul style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;">In a saucepan take two-third of water and one-third of milk and boil it.</li>
+<li style="margin-bottom: 5px;">When it reaches boiling point add 1-2 teaspoons of Golden Tips Masala Chai and keep boiling for another 2-3 minutes.</li>
+<li style="margin-bottom: 5px;">Add sugar as per your taste.</li>
+</ul>
+</div>
+</div>
+<div class="text-center mb-3 mt-3"><iframe src="https://www.youtube.com/embed/k8-iKDSoZ78" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>Cardamom</s:tag>
+    <s:tag>chai teas</s:tag>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>Region Assam</s:tag>
+    <s:tag>Speciality Blends</s:tag>
+    <s:tag>Speciality Chai</s:tag>
+    <s:tag>Tea Type Black</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263178977319</id>
+      <title>3.53oz   -   100gm   -   50 cups Pouch</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>JP-12-100GM</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263178977319</id>
+      <title>8.82oz   -     200gm   -   100 cups Pouch</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>JP-16</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263178977319</id>
+      <title>17.64oz -    500gm  -  250 cups Paper Box</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>GT-439-500GM</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+</feed>

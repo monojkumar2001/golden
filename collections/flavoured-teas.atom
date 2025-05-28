@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/flavoured-teas.atom"/>
+  <title>Golden Tips</title>
+  <updated>2025-04-30T00:45:31-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9967119696150</id>
+    <published>2025-04-30T00:45:31-05:00</published>
+    <updated>2025-04-30T00:45:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/red-wine-tea-tin-can"/>
+    <title>Red Wine Tea - Tin Can</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gtl-65.png?v=1745991407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            6.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description">
+<p>Blending the natural essence of red wine with premium black tea, Red Wine Tea offers a distinctive and refined taste experience. Fruity and floral notes intertwine with earthy undertones, while hibiscus petals contribute a smooth, rounded flavor profile.</p>
+<p>Versatile and aromatic, this tea can be enjoyed hot or cold - making it a sophisticated choice for elegant gatherings or a moment of indulgence.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>red wine black tea</s:tag>
+    <s:tag>red wine tea</s:tag>
+    <s:tag>Tin Boxes</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9967119696150</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">6.91</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/2265159303222</id>
+    <published>2025-02-27T00:52:26-06:00</published>
+    <updated>2025-02-27T00:52:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/potent-potpourri-moringa-green-tea"/>
+    <title>Potent Potpourri - Moringa  Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTL-64-FRONT.jpg?v=1719469660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Potent Potpourri:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">A classy combination of Moringa, Orange Peel, Chamomile Tulsi Ginger Rose, Licorice, Mint and Lemon Grass expertly blended with green Tea. The perfect drink for relaxing you mind and body.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Improve digestion, reduce gas, cramps &amp; eliminates acne, scars. Antioxidant-rich and good for immune and respiratory boosting.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">Can also be served chilled. Milk best avoided.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/2265159303222</id>
+      <title>3.52oz – 100gm  - 50 cups</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku>GTL-64</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9859327230230</id>
+    <published>2025-02-11T04:08:22-06:00</published>
+    <updated>2025-02-11T04:08:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/golden-tips-black-green-assortment-individual-envelope-tea-bags"/>
+    <title>Golden Tips Black &amp; Green Assortment Individual Envelope - Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/AssortmentIE-151.jpg?v=1739267793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            2.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Mint Green Tea:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Fine Green tea flavoured with mint.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Lemon Green Tea:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Fine Green Tea flavoured with citrusy lemon.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Green Tea:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Fine Green Tea with a mellowed taste.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Darjeeling Black Tea:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Bright Colouring Darjeeling summer tea with a pleasant aroma and taste.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Earl Grey Black Tea:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Bright Colouring black orthodox tea flavoured with the oil of bergamot.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Masala Chai:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Blend of robust CTC tea with exotic Indian spices to brew Chai.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">6 Unique Teas with 4 Tea bags each.</div>
+</div>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Each Teabag contains 2gms tea.</div>
+<!-- Block Content -->
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>darjeeling black tea</s:tag>
+    <s:tag>paper box</s:tag>
+    <s:tag>paper boxes</s:tag>
+    <s:tag>tea bag</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9859327230230</id>
+      <title>1.75oz - 48gm - 20 cups</title>
+      <s:price currency="USD">2.91</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6651820671030</id>
+    <published>2025-02-06T06:06:44-06:00</published>
+    <updated>2025-02-06T06:06:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/aroma-black-green-tea-assortment-individual-envelope-tea-bags"/>
+    <title>Aroma Black &amp; Green Tea Assortment Individual Envelope - Tea Bags</title>
+    <s:type></s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/WhatsAppImage2024-06-14at3.41.48PM.jpg?v=1718360361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block" data-mce-fragment="1">
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Golden Tips Tea was established with a mission to epitomise the art of drinking gourmet teas and an endeavour to make available the luxury of pure &amp; unblended single-origin Indian teas to connoisseurs across the globe. With a commitment to serve only the finest &amp; freshest picks, each tea is selected with precision and packed at source within days of their harvest. Our expert team of tasters &amp; master blenders navigate &amp; assess each tea tasting several hundred cups every week to select those from the prime tea growing season which are destined to bear the Golden Tips stamp. A brand with passion, ethics and a heritage of over 80 years.</div>
+<div class="prodDesc-Block__Heading"> </div>
+<div class="prodDesc-Block__Heading"><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Mint Green Tea:-</strong> Fine Green tea flavoured with mint. </span></div>
+<div class="prodDesc-Block__Heading"><span style="color: #000000;" data-mce-style="color: #000000;"> </span></div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading"><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Darjeeling Green Tea:-</strong><span> </span>Fine Green Tea flavoured with citrusy lemon.</span></div>
+<div class="prodDesc-Block__Heading"><span style="color: #000000;" data-mce-style="color: #000000;"> </span></div>
+<div class="prodDesc-Block__Text">
+<div class="prodDesc-Block__Text"><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Jasmine Green Tea:-</strong><span> </span>Fine Green Tea with a mellowed taste.</span></div>
+<div class="prodDesc-Block__Text"><span style="color: #000000;" data-mce-style="color: #000000;"> </span></div>
+</div>
+<div class="prodDesc-Block__Text">
+<div class="prodDesc-Block__Heading"><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Darjeeling Black Tea:-</strong><span> </span>Bright Colouring Darjeeling summer tea with a pleasant aroma and taste.</span></div>
+<div class="prodDesc-Block__Heading"><span style="color: #000000;" data-mce-style="color: #000000;"> </span></div>
+<div class="prodDesc-Block__Text"><span style="color: #000000;" data-mce-style="color: #000000;"><strong>English Breakfast Tea:-</strong><span> </span>Initially known as Breakfast Tea, English Breakfast.</span></div>
+<div class="prodDesc-Block__Text"><span style="color: #000000;" data-mce-style="color: #000000;"> </span></div>
+<div class="prodDesc-Block__Text"><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Earl Grey Black Tea:- </strong>Bright Colouring black orthodox tea flavoured with the oil of bergamot.</span></div>
+<div class="prodDesc-Block__Text">
+<span style="color: #000000;" data-mce-style="color: #000000;"></span><br>
+</div>
+<div class="prodDesc-Block__Text"><span style="color: #00aaff;"><strong>Each Tea contains 5 Teabags</strong></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text"><br></div>
+</div>
+</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Text">
+<div class="prodDesc-Block__Text"><br></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>INDIVIDUAL ENVELOPE</s:tag>
+    <s:tag>new darjeeling tea</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6651820671030</id>
+      <title>2.02oz - 57.5gm - 28cups</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>IE-120</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9709523763478</id>
+    <published>2024-10-03T05:46:05-05:00</published>
+    <updated>2024-10-03T05:46:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/flavoury-ensemble-six-refreshing-fruit-infusions"/>
+    <title>Flavoury Ensemble - Six Refreshing Fruit Infusions</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/452-3.png?v=1733825064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A unique ensemble of six different flavoured Green Teas - Peach, Mango, Chocolate, Vanilla, Strawberry &amp; Mint packed in individual cartons. These delightful Flavoured Teas are sure to overwhelm any tea connoisseur and are a great gift option for any occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>flavoured tea</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>herbal green tea</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>strawberry tea</s:tag>
+    <s:tag>vanilla tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9709523763478</id>
+      <title>150 Gram - 5.29Oz - 75 Cups</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>GT-452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9244187984150</id>
+    <published>2024-08-21T07:20:00-05:00</published>
+    <updated>2024-08-21T07:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/saffron-cardamom-exotic-chai-indias-authentic-spiced-tea-tin-can-free-exotic-darjeeling-tea-35g"/>
+    <title>Saffron Cardamom Exotic Chai India&apos;s Authentic Spiced Tea - Tin Can (Free Exotic Darjeeling Tea 35g)</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gtl-61_1.jpg?v=1739254345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">Health Benefits</div>
+<ul style="margin-left: 18px; margin-top: 7px;" data-mce-fragment="1" data-mce-style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Boost Energy and Immunity.</li>
+</ul>
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">How to prepare a perfect cup:</div>
+<ul style="margin-left: 18px; margin-top: 7px;" data-mce-fragment="1" data-mce-style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Mix one portion of milk &amp; two portions of water &amp; set to boil.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">When on boil add one teaspoon of Masala Chai and boil for another minute.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Add sugar as per taste &amp; strain into a cup.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Best consumed with milk.</li>
+</ul>
+<br><br>
+</div>
+</div>
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "Indian Traditional Masala Chai",
+  "description": "Masala chai is among the most widely consumed tea in the Indian subcontinent. It is a CTC tea that is brewed using milk and herbs and spices. CTC teas undergo a different kind of processing compared to Darjeeling teas. The leaves of these teas are passed through cylindrical rollers with hundreds of sharp teeth that crush, tear, and curl (or CTC as the name implies) the tea leaves into tiny hard pellets. Explore the sea of tea: https://www.goldentipstea.com/collections/chai",
+  "thumbnailUrl": "https://i.ytimg.com/vi/k8-iKDSoZ78/default.jpg",
+  "uploadDate": "2020-05-21T06:54:58Z",
+  "duration": "PT33S",
+  "embedUrl": "https://www.youtube.com/embed/k8-iKDSoZ78",
+  "interactionCount": "948"
+}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>saffron tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9244187984150</id>
+      <title>17.64oz - 500 gm - 250 cups</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263181828135</id>
+    <published>2024-08-03T04:55:23-05:00</published>
+    <updated>2024-08-03T04:55:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/earl-grey-green-envelope-tea-bags"/>
+    <title>Earl Grey Green Envelope - Tea Bags</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/earlgreygreentea.jpg?v=1609588009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A smooth blend of premium green tea and the citrus fragrance of bergamot.</div>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/8ecAE42aNKA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Each Teabag contains 1.6gms tea.</div>
+<!-- Block Content -->
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263181828135</id>
+      <title>1.12oz – 32gm  - 20 cups</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>IE-105</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8569552011542</id>
+    <published>2024-08-02T08:03:44-05:00</published>
+    <updated>2024-08-02T08:03:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/saffron-kashmiri-kahwa-loose-leaf-green-tea"/>
+    <title>Saffron Kashmiri Kahwa Loose Leaf Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/SAFFRON-KASHMIRI-TIN.jpg?v=1694797890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block__Text"> A fine grade of Green Tea, blended with Cinnamon sticks, crushed green Cardamom and with most desirable and seductive Saffron threads. A health beneficial and highly delicious beverage originating from the Kashmir valley in northern India.</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Health Benefits:
+</div>
+<div class="prodDesc-Block__Text">Good for the skin health, contains high amounts of antioxidants, Improves digestion,Remedy for Cold.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>kashmiri kahwa green tea</s:tag>
+    <s:tag>Tin Boxes</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8569552011542</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">12.50</s:price>
+      <s:sku>GT-284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6884793712694</id>
+    <published>2024-07-16T01:06:40-05:00</published>
+    <updated>2024-07-16T01:06:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/roasted-flavoury-organic-darjeeing-black-tea"/>
+    <title>Roasted Flavoury  Darjeeling Black Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTK-08.jpg?v=1719663355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            7.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Golden Tips Roasted Organic Tea is the perfect full-bodied, very bright and flavourful Darjeeling Tea with punch. This specially-made high-fired tea has a pleasant element of smokiness that can be enjoyed just by sipping the liquor or with a dash of milk to soften the flame of strength. A robust, yet aromatic cup to relish with or without tit bits such as pakoras / samosas, as accompaniments, to brighten your day.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>dajeeling tea</s:tag>
+    <s:tag>darjeeling black tea</s:tag>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>organic black tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>paper box</s:tag>
+    <s:tag>paper boxes</s:tag>
+    <s:tag>papper box</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6884793712694</id>
+      <title>250 gram - 8.81 oz - 125 Cups</title>
+      <s:price currency="USD">7.09</s:price>
+      <s:sku>GTK-08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/2265162022966</id>
+    <published>2024-06-02T03:01:18-05:00</published>
+    <updated>2024-06-02T03:01:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/supreme-synthesis-hibiscus-chamomile-stevia-green-tea"/>
+    <title>Supreme Synthesis - Hibiscus - Stevia Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Untitled-5_679309ea-e282-4ef6-930c-4ae0e14c524b.jpg?v=1599139707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Supreme Synthesis:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">A classy Combination of Hibiscus chamomile, Mint and Stevia expertly blended with Green Tea. The perfect drink for relaxing your mind and body.</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Lower high blood pressure and high cholesterol , prevent cavities,ear infections and strengths bones.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">Can also be served chilled. Milk best avoided.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/2265162022966</id>
+      <title>3.52oz – 100gm  - 50 cups</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>GT-390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263184285735</id>
+    <published>2024-04-30T06:15:12-05:00</published>
+    <updated>2024-04-30T06:15:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/earl-grey-full-leaf-pyramid-20-tea-bags-40g"/>
+    <title>Earl Grey Full Leaf Pyramid -  Tea Bags</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Eark_Grey_Pyramid_tea_bags.jpg?v=1730094704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A classic blend of full leaf Black tea mildly scented with the natural oil of bergamot fruit. This universally popular combination is characteristic of an aromatic &amp; refreshing taste, a fruity &amp; fragrant citrus flavor with bright Colour in the cup.</div>
+</div>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Each Teabag contains 2gms tea.</div>
+<!-- Block Content -->
+</div>
+<iframe width="100%" height="320" src="https://www.youtube.com/embed/SEddyubYbiM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>paper box</s:tag>
+    <s:tag>paper boxes</s:tag>
+    <s:tag>tea bags</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263184285735</id>
+      <title>1.41oz   -     40gm   -   20 cups</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>GT-707</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8808731509014</id>
+    <published>2023-11-04T04:14:42-05:00</published>
+    <updated>2023-11-04T04:14:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/blue-myriad-infusion-blue-tea"/>
+    <title>Blue Myriad Infusion Blue Tea</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-444.jpg?v=1699089284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            7.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ingredients: Pea Butterfly, Lemongrass, Moringa, Hibiscus and Rose Petals</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8808731509014</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">7.09</s:price>
+      <s:sku>GT-444</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8808245690646</id>
+    <published>2023-11-04T02:59:55-05:00</published>
+    <updated>2023-11-04T02:59:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/turquoise-trail-infusion-blue-tea"/>
+    <title>Turquoise Trail Infusion Blue Tea</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-443.jpg?v=1699084797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            8.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ingredients: Pea Butterfly, Lemongrass, Moringa, Peppermint and Rose Petals.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>rose tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8808245690646</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">8.18</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8808009466134</id>
+    <published>2023-11-04T02:38:12-05:00</published>
+    <updated>2023-11-04T02:38:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/amethyst-shimmer-pure-butterfly-pea-petals-infusion-blue-tea"/>
+    <title>Amethyst Shimmer Pure Butterfly Pea Petals Infusion Blue Tea</title>
+    <s:type>Herbal Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-441.jpg?v=1699090077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Herbal Tea<br>
+        <strong>Price: </strong>
+            10.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pure Butterfly Pea Petals nourish you with their nutritional qualities &amp; divine aroma.</p>
+<p><br data-mce-fragment="1"><strong>HEALTH BENEFITS</strong><br data-mce-fragment="1">Butterfly Pea is traditionally used to support vitality, and is also known for its anti-ageing and skin rejuvenating properties.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8808009466134</id>
+      <title>3.53oz - 100 gm - 50 cups</title>
+      <s:price currency="USD">10.73</s:price>
+      <s:sku>GT-441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8259541795094</id>
+    <published>2023-05-16T12:59:09-05:00</published>
+    <updated>2023-05-16T12:59:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/saffron-cardamom-exotic-chai-indias-authentic-spiced-tea-tin-can"/>
+    <title>Saffron Cardamom Exotic Chai India&apos;s Authentic Spiced Tea - Tin Can</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/glt-60_2.jpg?v=1733825395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">Health Benefits</div>
+<ul style="margin-left: 18px; margin-top: 7px;" data-mce-fragment="1" data-mce-style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Prevent Cold and Nasal Congestion.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Antioxidant-rich helps prevent cell damage.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Boost Energy and Immunity.</li>
+</ul>
+<div class="prodDesc-Block__Heading" data-mce-fragment="1">How to prepare a perfect cup:</div>
+<ul style="margin-left: 18px; margin-top: 7px;" data-mce-fragment="1" data-mce-style="margin-left: 18px; margin-top: 7px;">
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Mix one portion of milk &amp; two portions of water &amp; set to boil.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">When on boil add one teaspoon of Masala Chai and boil for another minute.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Add sugar as per taste &amp; strain into a cup.</li>
+<li style="margin-bottom: 5px;" data-mce-fragment="1" data-mce-style="margin-bottom: 5px;">Best consumed with milk.</li>
+</ul>
+<br><br>
+</div>
+</div>
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "Indian Traditional Masala Chai",
+  "description": "Masala chai is among the most widely consumed tea in the Indian subcontinent. It is a CTC tea that is brewed using milk and herbs and spices. CTC teas undergo a different kind of processing compared to Darjeeling teas. The leaves of these teas are passed through cylindrical rollers with hundreds of sharp teeth that crush, tear, and curl (or CTC as the name implies) the tea leaves into tiny hard pellets. Explore the sea of tea: https://www.goldentipstea.com/collections/chai",
+  "thumbnailUrl": "https://i.ytimg.com/vi/k8-iKDSoZ78/default.jpg",
+  "uploadDate": "2020-05-21T06:54:58Z",
+  "duration": "PT33S",
+  "embedUrl": "https://www.youtube.com/embed/k8-iKDSoZ78",
+  "interactionCount": "948"
+}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cinnamon</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8259541795094</id>
+      <title>8.81oz  - 250gm   - 125 cups</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>GTL-60</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6847350243382</id>
+    <published>2022-08-30T13:35:30-05:00</published>
+    <updated>2022-08-30T13:35:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/a-collection-of-some-of-the-finest-indian-herbs-floral-petals-with-varied-aromas-tea-gift-box"/>
+    <title>FLAVOURY FINE FETTLE - Six Refreshing Fruit Infusions</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/FLAVOUR1.png?v=1733825749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Introducing FLAVOURY FINE FETTLE - a collection of the finest Indian herbs and Floral Petals carefully crafted to bring out a perfect blend of Aroma, Taste, and Health benefits. Each pack is air-sealed and beautifully packaged in a gift box, </span></p>
+<p><span><strong>Floral Delight (black tea):</strong> Classic rose with a touch of sweetness (stevia) and tartness (hibiscus)</span></p>
+<p data-sourcepos="5:1-5:119"><strong>Amethyst Ardor (purple tea):</strong><span> Naturally caffeine-free,</span><span> known for its delicate floral aroma and slightly sweet taste.</span></p>
+<p data-sourcepos="7:1-7:97"><strong>Green Grass (lemon green tea):</strong><span> Invigorating green tea with a refreshing citrus twist (lemon).</span></p>
+<p data-sourcepos="9:1-9:28"><strong>Green Blush (green tea):</strong><span> Romantic blend of green tea and rose petals,</span><span> offering a calming floral fragrance and smooth taste.</span></p>
+<p data-sourcepos="11:1-11:54"><strong>Empyrean Azure (blue tea):</strong><span> Naturally caffeine-free butterfly pea flower tea with a subtle floral aroma and beautiful blue color.</span></p>
+<p data-sourcepos="13:1-13:134"><strong>Hibiscus Rose (black tea):</strong><span> Tangy and refreshing black tea with vibrant hibiscus flowers,</span><span> resulting in a beautiful ruby red color.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6847350243382</id>
+      <title>60 Gram - 5.29Oz - 30 Cups</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>GT-416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6847347163190</id>
+    <published>2022-08-30T13:26:18-05:00</published>
+    <updated>2022-08-30T13:26:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/a-unique-ensemble-of-six-different-flavoured-black-teas-gift-box"/>
+    <title>FLAVOURY ENSEMBLE</title>
+    <s:type>Tea Strainers</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/FLAVOUR4.jpg?v=1733825811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Tea Strainers<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A unique ensemble of six different Flavoured Black Teas - Peach, Mango, Chocolate, Vanilla, Strawberry &amp; Mint packed in individual cartons. These delightful Flavoured Teas are sure to overwhelm any tea connoisseur and are a great gift option for any occasion.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collections</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6847347163190</id>
+      <title>150 Gram - 5.19 Oz - 75 cups</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>GT-421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6795198431286</id>
+    <published>2022-05-31T11:43:49-05:00</published>
+    <updated>2022-05-31T11:43:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/earl-grey-spice-black-tea"/>
+    <title>Earl Grey Spice Black Tea</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/JP-14Images-2_1.jpg?v=1654015428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore the delightful blend of our Earl Grey Spice Black Tea, where Indian spices and CTC tea come together with the sweet aroma of bergamot oil. It's a unique twist that makes the flavor pop!</p>
+<p>Enjoy it hot or cold – this tea is perfect for any mood. Add a bit of milk for a creamy touch that enhances the richness.</p>
+<p>Indulge in the charm of our Earl Grey Spice Black Tea, a mix of tradition and creativity that brings a special touch to your tea time. Every sip promises a tasty and comforting experience</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chai teas</s:tag>
+    <s:tag>CTC Chai</s:tag>
+    <s:tag>earl grey</s:tag>
+    <s:tag>earl grey tea</s:tag>
+    <s:tag>masala chai</s:tag>
+    <s:tag>spiced tea</s:tag>
+    <s:tag>spicy teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6795198431286</id>
+      <title>5.29oz-150 gm-75 cups</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>JP-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6736625270838</id>
+    <published>2022-03-22T13:04:11-05:00</published>
+    <updated>2022-03-22T13:04:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/ginger-mastea-loose-leaf-spicy-indian-chai"/>
+    <title>Ginger Mastea Loose Leaf Spicy Indian Chai</title>
+    <s:type>Tea &amp; Infusions</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Ginger_Mastea.jpg?v=1730096684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Tea &amp; Infusions<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block prodDesc-Block__Text">A classic blend of strong CTC tea with a host of selected Indian spices along with the aromatic and pungent Ginger. This traditional recipe makes for an unforgettable drink that is best served in a shot glass or clay cup. <br><br>This energizing beverage can bring about a feeling of sheer bliss with its spicy, flavorful compositions <br><br>A cup of steaming host 'masala chai' is known to ease colds, relieve nasal congestion, and boost immunity</div>
+<div class="prodDesc-Block mt-4">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">SUGGESTED READINGS:</div>
+<!-- Block Content --> <a class="border-0 text-link" href="/blogs/all/top-5-health-benefits-of-ginger-tea"> <span> Top 5 Health Benefits of Ginger Tea </span></a> <a class="border-0 text-link" href="/blogs/all/is-masala-tea-healthy?_pos=14&amp;_sid=ae9676429&amp;_ss=r"> <span> Top 6 Health Benefits of Masala Tea </span></a> <a class="border-0 text-link" href="/blogs/all/biggest-collection-of-best-indian-masala-teas?_pos=15&amp;_sid=ae9676429&amp;_ss=r"> <span> Biggest Collection of Best Indian Masala Teas </span></a>
+</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ruQG5pz4Zhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+<!-- Block -->
+<p> </p>
+<!-- Block -->
+<p> </p>
+<!-- Block --></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chai teas</s:tag>
+    <s:tag>paper box</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6736625270838</id>
+      <title>3.53oz - 125 gm - 62 cups</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>GTK-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/732488564790</id>
+    <published>2021-12-30T23:11:24-06:00</published>
+    <updated>2021-12-30T23:11:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/mint-matcha-japanese-green-tea-50-gm"/>
+    <title>Mint Matcha Japanese Green Tea</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/mint-1.jpg?v=1666702859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            9.20 - 17.00
+            <a href="https://www.goldentipstea.com/products/mint-matcha-japanese-green-tea-50-gm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Matcha is a fine stone-ground green tea powder from Japan. The refreshing blend of Mint Matcha is highly beneficial to health and helps in boosting the immune system. Since it is more concentrated in antioxidants, Matcha tea is believed to have 10 times the nutritional value of green tea.</div>
+</div>
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading"> Exclusively Imported from Japan.</div>
+<!-- Block Content -->
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>green tea</s:tag>
+    <s:tag>green teas</s:tag>
+    <s:tag>matcha</s:tag>
+    <s:tag>matcha tea</s:tag>
+    <s:tag>matcha tea powder</s:tag>
+    <s:tag>mint tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/732488564790</id>
+      <title>1.76oz - 50gm</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku/>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/732488564790</id>
+      <title>3.53oz - 100 gm</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku/>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/4293694980150</id>
+    <published>2021-12-27T01:45:16-06:00</published>
+    <updated>2021-12-27T01:45:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/peach-flavoured-black-tea-tin-can"/>
+    <title>Peach Flavoured Black Tea - Tin can</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTL-58.jpg?v=1712213394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A refreshing blend of fine black tea from Assam combined with natural extracts of peach. The tea is characteristic of a delightful aroma, dark Colour in the cup and fruity flavor of ripe peaches.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/4293694980150</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>GTL-58</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263186841639</id>
+    <published>2021-08-31T08:05:05-05:00</published>
+    <updated>2021-08-31T08:05:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/roseherb-green-tea-royal-brocade-cloth-bag-1"/>
+    <title>Roseherb Green Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Green Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Roseherb-Green-Tea---Royal-Brocade-Cloth-Bag_1024x_23066ec8-1da9-4273-b143-7c1ce08021c1.png?v=1743682037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Green Tea<br>
+        <strong>Price: </strong>
+            10.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A soothing blend of pure green tea and a variety of exotic medicinal herbs from the Himalayas in India. This light and mellow herbal green tea is characteristic of a rich grassy aroma with sweetish and rosy undertones, a smooth flavour with fairly bright Colour in the cup. </div>
+<br>
+<div class="prodDesc-Block_Text"></div>
+<div class="prodDesc-Block_Text">
+<meta charset="UTF-8">
+<span>Elevate your tea ritual with an experience that transcends the ordinary. Discover a moment of quiet luxury where each cup invites you to unwind and reconnect with nature’s artistry. The intricate blend embodies a journey of sensory delight, evoking a refined atmosphere of heritage and modern elegance. Its serene allure makes it the perfect companion for moments of reflection, celebration, or simply savoring the finer things in life.</span>
+</div>
+<div class="prodDesc-Block_Text"><span></span></div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263186841639</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">10.85</s:price>
+      <s:sku>GT-215</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263177863207</id>
+    <published>2021-01-08T06:03:55-06:00</published>
+    <updated>2021-01-08T06:03:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/chocolate-black-tea-tin-can-100gm"/>
+    <title>Chocolate Flavoured Black Tea - Tin Can</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gtl-32.jpg?v=1712308248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A refreshing blend of high grow full leaf black tea combined with natural extracts of Chocolate. This bright Colouring tea makes for a robust and flavoury cup.</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Brewing Notes:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Put 2 grams of Chocolate Black Tea Leaves in a cup. Pour 200ml of freshly boiled water over the leaves. Steep for 3-5 Minutes. Add sugar or honey as sweetener. Ice cubes may be added to chill. Best served without or with very little milk.</div>
+</div>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/R3SFx56iGR4?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>chocolate black tea</s:tag>
+    <s:tag>chocolate tea</s:tag>
+    <s:tag>chocolate teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263177863207</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>GTL-32</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263183859751</id>
+    <published>2020-11-09T04:25:27-06:00</published>
+    <updated>2020-11-09T04:25:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/golden-tips-mint-black-tea-tin-can-100g"/>
+    <title>Mint Flavoured Loose Leaf Black Tea - Tin Can</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea Co. (P) Ltd.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Mint-Flavoured-Black-Tea--Tin-Can_-100g_9511dfbb-1c21-4307-bec4-dade1e553ef9.jpg?v=1658559408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea Co. (P) Ltd.<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A refreshing blend of fine black tea from Assam combined with natural extracts of mint. The tea is characteristic of a strong aroma, dark Colour in the cup and smooth undertones of mint.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>mint black tea</s:tag>
+    <s:tag>mint tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263183859751</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>GTL-57</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/4706578268214</id>
+    <published>2020-08-28T00:29:08-05:00</published>
+    <updated>2020-08-28T00:29:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/ginger-ctc-black-tea"/>
+    <title>Ginger CTC Black Tea</title>
+    <s:type>Chai Teas</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GT-272_MOCKUP.png?v=1739255719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Chai Teas<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">A perfect blend of robust CTC Tea blended expertly with crushed Ginger. A cup of piping hot Ginger Tea, a healthy drink that’s a boon for digestion. An excellent must-have tea for all chai lovers.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Health Benefits:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Reduce Muscle Pain and Soreness, Drastically Lower Blood Sugars, and Improve Heart Disease Risk Factors, Lower Cholesterol Levels, Improve Brain Function and Protect Against Alzheimer's Disease.</div>
+</div>
+<div class="text-center mb-3 mt-3"><iframe style="box-shadow: 0 0 10px #80808047;" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube.com/embed/edHzv4AwI0M?rel=0" width="560" height="315" frameborder="0"></iframe></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>black tea</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>Blend Teas</s:tag>
+    <s:tag>Speciality Blends</s:tag>
+    <s:tag>Tea Type Black</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/4706578268214</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>GT-272-200GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/nilgiri.atom"/>
+  <title>Golden Tips</title>
+  <updated>2021-08-31T08:07:19-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263186972711</id>
+    <published>2021-08-31T08:07:19-05:00</published>
+    <updated>2021-08-31T08:07:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pure-nilgiri-tea-royal-brocade-cloth-bag"/>
+    <title>Pure Nilgiri Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/Pure-Nilgiri-Tea---Royal-Brocade-Cloth-Bag_e9d53f29-dea4-4249-ab20-3fad5c271970.jpg?v=1665235143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            7.75 - 13.80
+            <a href="https://www.goldentipstea.com/products/pure-nilgiri-tea-royal-brocade-cloth-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">This high-grown full leaf black tea comes from the picturesque estates of the the Nilgiris in southern India. The tea is characteristic of a light and crispy flavour, a brisk &amp; bright liqour in the cup with a subtle &amp; distinct after-taste.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+<br> <iframe width="100%" height="320" src="https://www.youtube.com/embed/2uEYL7RZzzU?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black teas</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift bag</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>nilgiri teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263186972711</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku>GT-59</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263186972711</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">13.80</s:price>
+      <s:sku>GT-58</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263188250663</id>
+    <published>2017-10-27T04:47:11-05:00</published>
+    <updated>2017-10-27T04:47:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/nilgiri-tea-tin-can"/>
+    <title>Nilgiri Tea - Tin Can</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gtl-03Front.jpg?v=1712213650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">This high-grown full leaf black tea comes from the picturesque estates of the Nilgiris in southern India. The tea is characteristic of a light &amp; crispy flavour, a brisk &amp; bright Colour in the cup with a subtle &amp; distinct aftertaste.</div>
+<br>
+<iframe width="100%" height="320" src="https://www.youtube.com/embed/2uEYL7RZzzU?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corporate gifts</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188250663</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>GTL-3</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

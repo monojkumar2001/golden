@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/fennel.atom"/>
+  <title>Golden Tips</title>
+  <updated>2023-04-22T07:03:33-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8216249827606</id>
+    <published>2023-04-22T07:03:33-05:00</published>
+    <updated>2023-04-22T07:03:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/silver-coated-brass-tea-strainer-with-a-silver-plated-vintage-holder"/>
+    <title>Silver Coated Brass Tea Strainer With a Silver Plated Vintage Holder</title>
+    <s:type>Tea Strainers</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/B1.jpg?v=1733895269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea Strainers<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Discover elegance in simplicity with our Silver Coated Brass Tea Strainer, complete with a Silver Plated Vintage Holder. Crafted with precision, this exquisite tea strainer not only ensures a perfect brew but also adds a touch of timeless sophistication to your tea time rituals. The silver-plated vintage holder provides a charming resting place for the strainer when not in use, making it a functional and aesthetic addition to your tea accessories collection.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>tea-accessories-sale</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8216249827606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

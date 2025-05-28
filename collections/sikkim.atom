@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/sikkim.atom"/>
+  <title>Golden Tips</title>
+  <updated>2024-07-09T04:52:35-05:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/6874076643382</id>
+    <published>2024-07-09T04:52:35-05:00</published>
+    <updated>2024-07-09T04:52:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pride-of-sikkim-rare-organic-temi-tea"/>
+    <title>Pride of Sikkim Rare Organic Temi Tea</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/1_1_94cfcd59-081e-4390-94bd-004b24dcd01c.jpg?v=1733825577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            26.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">An outstanding &amp; rare Second Flush Sikkim Tea meant for connoisseurs of Golden Tips Teas across the globe. Originating from the Temi Tea  Estate which produces one of the finest teas in the world, this selection with a unique and typical flavor, is packed in an elegant velvet bag adorned by the knot to Eternity, articulately hand-embroidered in the golden thread (zari) in the zarodi form of craftsmanship and placed into a window-lid pinewood box.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black tea</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>loose leaf tea</s:tag>
+    <s:tag>Organic Tea</s:tag>
+    <s:tag>Season/Flush Second Flush</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/6874076643382</id>
+      <title>100 gram - 3.52 oz - 50 cups</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>GT-422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263188217895</id>
+    <published>2022-09-10T02:22:10-05:00</published>
+    <updated>2022-09-10T02:22:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/fine-sikkim-tea-royal-brocade-cloth-bag"/>
+    <title>Temi Sikkim Tea - Royal Brocade Cloth Bag</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/gt-78_1.jpg?v=1733895826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            9.75 - 18.50
+            <a href="https://www.goldentipstea.com/products/fine-sikkim-tea-royal-brocade-cloth-bag">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">
+This tenderly plucked and carefully manufactured tea comes from the sole Temi Tea estate in the north-eastern state of Sikkim in India. This tea is an international favourite and is characteristic of a bright Colour in the cup with a unique and typical flavour.</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Heading -->
+<div class="prodDesc-Block__Heading">Disclaimer:</div>
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Brocade fabric design may change from time to time and may not be the same as shown in the website.</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188217895</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">9.75</s:price>
+      <s:sku>GT-79</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188217895</id>
+      <title>7.05oz   -     200gm   -   100 cups</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>GT-78</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/263188119591</id>
+    <published>2020-11-10T07:40:46-06:00</published>
+    <updated>2020-11-10T07:40:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/fine-sikkim-temis-tea-tin-can"/>
+    <title>Sikkim Temi Tea - Tin Can</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Teas India</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/GTL-4_2.jpg?v=1733896781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Teas India<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            11.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text">This tenderly plucked and carefully manufactured tea comes from the sole Temi Tea estate in the north-eastern state of Sikkim in India. The tea is an international favourite &amp; is characteristic of a bright Colour in the cup with a unique and typical flavour</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/263188119591</id>
+      <title>3.53oz   -   100gm   -   50 cups</title>
+      <s:price currency="USD">11.44</s:price>
+      <s:sku>GTL-4</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

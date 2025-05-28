@@ -1,0 +1,38 @@
+@media (max-width: 767px) {
+  #shopify-section-slideshow {
+    display: none;
+  }
+
+  #shopify-section-1582981211810 {
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  #shopify-section-slideshow {
+    display: block;
+  }
+
+  #shopify-section-1582981211810 {
+    display: none;
+  }
+}
+@media (max-width: 767px) {
+  #shopify-section-slideshow {
+    display: none;
+  }
+
+  #shopify-section-1582981211810 {
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  #shopify-section-slideshow {
+    display: block;
+  }
+
+  #shopify-section-1582981211810 {
+    display: none;
+  }
+}

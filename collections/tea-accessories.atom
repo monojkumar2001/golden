@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.goldentipstea.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.goldentipstea.com/collections/tea-accessories.atom"/>
+  <title>Golden Tips</title>
+  <updated>2024-11-07T00:19:38-06:00</updated>
+  <author>
+    <name>Golden Tips</name>
+  </author>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9683317883158</id>
+    <published>2024-11-07T00:19:38-06:00</published>
+    <updated>2024-11-07T00:19:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/golden-attractive-gold-plated-epns-tea-pot"/>
+    <title>Golden Attractive Gold-Plated EPNS Tea Pot</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/golden-tea-kettle-2-1.jpg?v=1733894593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            62.73 - 78.00
+            <a href="https://www.goldentipstea.com/products/golden-attractive-gold-plated-epns-tea-pot">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handcrafted attractive gold-plated EPNS teapot to brew and serve the finest Teas.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collections</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>tea pot</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9683317883158</id>
+      <title>500 ML ( 585 Gram )</title>
+      <s:price currency="USD">62.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9683317883158</id>
+      <title>750 ML ( 810 Gram )</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9141073477910</id>
+    <published>2024-11-06T23:03:44-06:00</published>
+    <updated>2024-11-06T23:03:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/silver-attractive-silver-plated-epns-tea-pot"/>
+    <title>Silver Attractive Silver-Plated EPNS Tea Pot</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/INFROGRAPHICSMALL.jpg?v=1708433581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            41.64 - 78.00
+            <a href="https://www.goldentipstea.com/products/silver-attractive-silver-plated-epns-tea-pot">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Handcrafted attractive silver-plated EPNS teapot to brew and serve the finest Teas.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>new</s:tag>
+    <s:tag>Tea Accessories</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9141073477910</id>
+      <title>300 ML  ( 390 Gram )</title>
+      <s:price currency="USD">41.64</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9141073477910</id>
+      <title>380 ML  ( 430 Gram )</title>
+      <s:price currency="USD">47.09</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9141073477910</id>
+      <title>500 ML  ( 560 Gram )</title>
+      <s:price currency="USD">62.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9141073477910</id>
+      <title>750 ML  ( 720 Gram )</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9408485359894</id>
+    <published>2024-04-30T01:21:13-05:00</published>
+    <updated>2024-04-30T01:21:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/stainless-steel-house-tea-infuser"/>
+    <title>Stainless Steel House Tea Infuser</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/Home-shape-infuse2.jpg?v=1733894783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            6.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>An attractive and presentable stainless steel infuser shaped like a house  - cottage, with a hook chain and a landing plate. The prominent perforations on all sides allow the water to freely move in and out so that the leaves inside are fully infused seamlessly. There is also control over all the leaves as the infuser - with the tea leaves - may be pulled out anytime desired.</div>
+<div><br></div>
+<p>The infuser is not just attractive but is also very easy to open, fill with leaves and then clean, once the tea is ready.</p>
+<p>May also be kept in a refrigerator with the infused leaves for a second infusion, if so desired</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>infuser</s:tag>
+    <s:tag>Tea Accessories</s:tag>
+    <s:tag>tea infuser</s:tag>
+    <s:tag>tea strainer</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9408485359894</id>
+      <title>House Shape Tea Infuser</title>
+      <s:price currency="USD">6.19</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/9270483910934</id>
+    <published>2024-04-04T05:00:26-05:00</published>
+    <updated>2024-04-04T05:00:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/golden-tips-tea-multipurpose-jute-bag-eco-friendly"/>
+    <title>Golden Tips Tea Multipurpose Jute Bag - Eco Friendly</title>
+    <s:type>Jute Bag</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/jute-1.jpg?v=1712224829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Jute Bag<br>
+        <strong>Price: </strong>
+            3.99 - 5.99
+            <a href="https://www.goldentipstea.com/products/golden-tips-tea-multipurpose-jute-bag-eco-friendly">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!-- Block -->
+<div class="prodDesc-Block" data-mce-fragment="1">
+<!-- Block Content -->
+<div class="prodDesc-Block_Text" data-mce-fragment="1">Beautifully designed multipurpose jute bag. Sturdy, Spacious, Jute bag which can be used for shopping and gifting. Completely biodegradable and eco-friendly. Laminated from inside for moisture protection and long-lasting use</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bag</s:tag>
+    <s:tag>jute bag</s:tag>
+    <s:tag>tea bag</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9270483910934</id>
+      <title>Large (30.5 cm x 41.5 cm)</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/9270483910934</id>
+      <title>Small (25 cm x 41.5 cm)</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8718164885782</id>
+    <published>2023-10-16T13:16:53-05:00</published>
+    <updated>2023-10-16T13:16:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/wooden-sand-tea-timer-3-minutes-and-5-minutes"/>
+    <title>Wooden Sand Tea Timer 3 Minutes and 5 Minutes</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/5_28236013-dea8-4cc7-8fea-ea84a37caa67.jpg?v=1733894966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            10.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Unlock the perfect cup of tea with this Wooden Sand Tea Timer. Its 3 and 5-minute options let you get the perfect brew every time. An ideal accessory for any tea connoisseur, its solid wood design is sure to make a statement. Experience an exceptional cup of tea with this amazing timer!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Tea Accessories</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8718164885782</id>
+      <title>3 Minutes &amp; 5 Minutes</title>
+      <s:price currency="USD">10.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8718151647510</id>
+    <published>2023-10-16T13:01:33-05:00</published>
+    <updated>2023-10-16T13:01:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/brass-sand-tea-timer-5-minutes"/>
+    <title>Brass Sand Tea Timer 5 minutes</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/3_f7e57fea-d7bc-473b-8e78-bf879c1de8ec.jpg?v=1733895147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            10.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Make precise and effortless tea everytime with our Brass Sand Tea Timer! Crafted with brass and filled with sand, this 5 minute timer will help you brew the perfect cup of tea with just the right amount of sweetness. Enjoy the perfect flavor of your favorite tea every time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Tea Accessories</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8718151647510</id>
+      <title>5 Minutes</title>
+      <s:price currency="USD">10.77</s:price>
+      <s:sku>STT-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8718129266966</id>
+    <published>2023-10-16T12:44:21-05:00</published>
+    <updated>2023-10-16T12:44:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/wooden-sand-tea-timer-brewing-tea-and-coffee-timer"/>
+    <title>Wooden Sand Tea Timer 3 Minutes - Brewing Tea and Coffee Timer</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/1_73266b4b-11ac-4f0d-ac0e-6e14e2ca1d80.jpg?v=1733895081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            9.41 - 10.36
+            <a href="https://www.goldentipstea.com/products/wooden-sand-tea-timer-brewing-tea-and-coffee-timer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Experience the perfect cup of tea or coffee with the Wooden Sand Tea Timer. This three-minute timer helps you steep your loose leaf tea or pour-over coffee for the ideal flavor and strength. Enjoy your favorite drinks with this stylish, minimalist tool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Tea Accessories</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8718129266966</id>
+      <title>3 Minutes</title>
+      <s:price currency="USD">9.41</s:price>
+      <s:sku>STT-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8718129266966</id>
+      <title>5 Minutes</title>
+      <s:price currency="USD">10.36</s:price>
+      <s:sku>STT-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8718124450070</id>
+    <published>2023-10-16T12:39:14-05:00</published>
+    <updated>2023-10-16T12:39:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/perfect-wooden-sand-tea-timer-3-4-5-minutes-green-tea-timer-brewing-tea-and-coffee-timer"/>
+    <title>Perfect Wooden Sand Tea Timer - 3/4/5 Minutes | Green Tea Timer | Brewing Tea and Coffee Timer</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/2_9a38e56f-890b-4421-b612-adf6388321da.jpg?v=1733895003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            12.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Our Perfect Wooden Sand Tea Timer makes it easy to get the perfect cup of tea or coffee every time. With 3/4/5 minute settings, it's simple and fast to set the exact brewing time you need. Experience the art of tea-making today and get the perfect cup every time!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Tea Accessories</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8718124450070</id>
+      <title>STT-02</title>
+      <s:price currency="USD">12.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8417774895382</id>
+    <published>2023-07-27T10:07:13-05:00</published>
+    <updated>2023-07-27T10:07:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/stainless-steel-tea-infuser-1"/>
+    <title>Stainless Steel Tea Infuser</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/small-infuser.jpg?v=1733895618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            4.87 - 5.99
+            <a href="https://www.goldentipstea.com/products/stainless-steel-tea-infuser-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Elevate your tea experience with our Stainless Steel Tea Infuser. This versatile infuser is designed for tea enthusiasts who appreciate convenience and quality. Made from high-quality stainless steel, it's both durable and easy to clean. The fine mesh ensures that even the finest tea leaves won't escape into your brew, while the long handle makes it simple to steep and remove. Enjoy a hassle-free way to savor your favorite loose-leaf teas with this must-have accessory."</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Tea Accessories</s:tag>
+    <s:tag>tea-accessories-sale</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8417774895382</id>
+      <title>Small</title>
+      <s:price currency="USD">4.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8417774895382</id>
+      <title>Large</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8356806033686</id>
+    <published>2023-07-01T11:03:36-05:00</published>
+    <updated>2023-07-01T11:03:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/special-darjeeling-teas-collection-with-silver-coated-brass-traditional-tea-strainer-combo-pack"/>
+    <title>Special Darjeeling Teas Collection with Silver Coated Brass Traditional Tea Strainer</title>
+    <s:type>Black Tea</s:type>
+    <s:vendor>Golden Tips Tea (India)</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/2_f84001f9-4a41-4600-b6ab-154100757268.jpg?v=1733825268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips Tea (India)<br>
+        <strong>Type: </strong>Black Tea<br>
+        <strong>Price: </strong>
+            53.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Special Summer Darjeeling Black Tea Second Flush ( 3.53oz - 100gm - 50 cup )</div>
+<div class="prodDesc-Block__Text">
+<span data-mce-fragment="1">Premium full leaf second ﬂush black tea from Darjeeling. Summer Darjeeling teas are characterized by their amber liquor, slight fruity taste along with a pleasant muscatel flavour.</span>.</div>
+</div>
+<div class="prodDesc-Block">
+<div class="prodDesc-Block__Heading">Special Spring Darjeeling Black Tea First Flush ( 3.53oz - 100gm - 50 cup )</div>
+<div class="prodDesc-Block__Text">
+<span data-mce-fragment="1">Premium full leaf first flush black tea from Darjeeling. Spring Darjeeling teas are characteristic<img></span><br data-mce-fragment="1"><span data-mce-fragment="1">of a beautiful golden liquor, a soft delightful aroma along with distinct flowery notes in every sip</span>.</div>
+</div>
+</div>
+</div>
+<div class="prodDesc-Block"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>assorted teas</s:tag>
+    <s:tag>black teas</s:tag>
+    <s:tag>celebrations</s:tag>
+    <s:tag>corporate gifts</s:tag>
+    <s:tag>dajeeling tea</s:tag>
+    <s:tag>darjeeling black tea</s:tag>
+    <s:tag>darjeeling first flush teas</s:tag>
+    <s:tag>darjeeling new teas</s:tag>
+    <s:tag>darjeeling second flush teas</s:tag>
+    <s:tag>darjeeling tea</s:tag>
+    <s:tag>darjeeling teas</s:tag>
+    <s:tag>first flush tea</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>loose leaf black tea</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Season/Flush Second Flush</s:tag>
+    <s:tag>second flush tea</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8356806033686</id>
+      <title>200 Gram - 7.05 oz - 100 Cups</title>
+      <s:price currency="USD">53.18</s:price>
+      <s:sku>GT-440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8291221995798</id>
+    <published>2023-05-31T11:50:10-05:00</published>
+    <updated>2023-05-31T11:50:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/pyramid-shaped-borosilicate-glass-teapot-with-steel-infuser"/>
+    <title>Pyramid-Shaped Borosilicate Glass Teapot with Steel Infuser</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/files/large.jpg?v=1733895207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            11.24 - 14.62
+            <a href="https://www.goldentipstea.com/products/pyramid-shaped-borosilicate-glass-teapot-with-steel-infuser">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Elegantly handcrafted food-grade borosilicate clear &amp; plain glass teapot </span><span>with detachable micromesh infuser &amp; lid,</span><span> most ideal for brewing leaf tea . Aesthetically-designed  tapered square to give the most pleasant experience whilst steeping leaf teas. The infuser has hundreds of minute pores to allow free flow of water in and out whilst the leaves are confined within the infuser so that leaf particles do not flow into the cup. An ideal apparatus &amp; gift for lovers of whole leaf teas. The teapot allows the loose leaves to be steeped till the desired duration to attain proper strength, whilst the entire process can be minutely observed much to one's delight. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>gift teas</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Tea Accessories</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8291221995798</id>
+      <title>550 ML</title>
+      <s:price currency="USD">11.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8291221995798</id>
+      <title>750 ML</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8291221995798</id>
+      <title>950 ML</title>
+      <s:price currency="USD">14.62</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8216147886358</id>
+    <published>2023-04-22T07:10:11-05:00</published>
+    <updated>2023-04-22T07:10:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/perfect-pincer-ball-shaped-stainless-steel-strainer-infuser"/>
+    <title>Silver Coated Brass Infuser with Push &amp; Lock for Office, Home, Gifting Purpose, Ornamental and Ostentatious</title>
+    <s:type>Tea Strainers</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/D2.jpg?v=1682163550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea Strainers<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your tea experience with our Silver Coated Brass Infuser. Crafted with precision and elegance, this infuser is both functional and ornate. Featuring a Push &amp; Lock mechanism, it keeps your tea secure during steeping. Perfect for home, office, or gifting, it's the epitome of tea-time luxury.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sale</s:tag>
+    <s:tag>tea-accessories-sale</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8216147886358</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/8216249827606</id>
+    <published>2023-04-22T07:03:33-05:00</published>
+    <updated>2023-04-22T07:03:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/silver-coated-brass-tea-strainer-with-a-silver-plated-vintage-holder"/>
+    <title>Silver Coated Brass Tea Strainer With a Silver Plated Vintage Holder</title>
+    <s:type>Tea Strainers</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/B1.jpg?v=1733895269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea Strainers<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Discover elegance in simplicity with our Silver Coated Brass Tea Strainer, complete with a Silver Plated Vintage Holder. Crafted with precision, this exquisite tea strainer not only ensures a perfect brew but also adds a touch of timeless sophistication to your tea time rituals. The silver-plated vintage holder provides a charming resting place for the strainer when not in use, making it a functional and aesthetic addition to your tea accessories collection.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>celebrations</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>tea-accessories-sale</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/8216249827606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.goldentipstea.com/products/4858374291510</id>
+    <published>2020-12-09T06:26:35-06:00</published>
+    <updated>2020-12-09T06:26:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.goldentipstea.com/products/glass-mug-steel-lid-fine-steel-mesh-infuser"/>
+    <title>Glass Mug &amp; Steel Lid &amp; Fine Steel Mesh Infuser</title>
+    <s:type>Tea Accessories</s:type>
+    <s:vendor>Golden Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2485/1434/products/2_2_2d3b5295-1316-4b8c-a563-ce7ec8c773bb.jpg?v=1665235708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Tips<br>
+        <strong>Type: </strong>Tea Accessories<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="mb-3 mt-2"><iframe src="https://www.youtube.com/embed/v4ECGNagtfA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="315" frameborder="0"></iframe></div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Glass, 100% see-through transparent attractive tea Mug.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">High quality and fine steel tea infuser &amp; steel round lid.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Very ideal and most user-friendly to prepare tea.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Lid helps to keep the tea warm .</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Very attractive.</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Best not to microwave .</div>
+</div>
+<!-- Block -->
+<div class="prodDesc-Block">
+<!-- Block Content -->
+<div class="prodDesc-Block__Text">Capacity: 450 ml.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection</s:tag>
+    <s:variant>
+      <id>https://www.goldentipstea.com/products/4858374291510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>Glasssteel_Mug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

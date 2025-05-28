@@ -1,0 +1,330 @@
+typeof Shopify == "undefined" && (Shopify = {}),
+  (Shopify.money_format = "$ {{amount}}"),
+  (Shopify.onError = function (XMLHttpRequest, textStatus) {
+    var data = eval("(" + XMLHttpRequest.responseText + ")");
+    data.message
+      ? alert(data.message + "(" + data.status + "): " + data.description)
+      : alert(
+          "Error : " + Shopify.fullMessagesFromErrors(data).join("; ") + "."
+        );
+  }),
+  (Shopify.fullMessagesFromErrors = function (errors) {
+    var fullMessages = [];
+    return (
+      jQuery.each(errors, function (attribute, messages) {
+        jQuery.each(messages, function (index, message) {
+          fullMessages.push(attribute + " " + message);
+        });
+      }),
+      fullMessages
+    );
+  }),
+  (Shopify.onCartUpdate = function (cart) {
+    alert("There are now " + cart.item_count + " items in the cart.");
+  }),
+  (Shopify.onCartShippingRatesUpdate = function (rates2, shipping_address) {
+    var readable_address = "";
+    shipping_address.zip && (readable_address += shipping_address.zip + ", "),
+      shipping_address.province &&
+        (readable_address += shipping_address.province + ", "),
+      (readable_address += shipping_address.country),
+      alert(
+        "There are " +
+          rates2.length +
+          " shipping rates available for " +
+          readable_address +
+          ", starting at " +
+          Shopify.formatMoney(rates2[0].price) +
+          "."
+      );
+  }),
+  (Shopify.onItemAdded = function (line_item) {
+    alert(line_item.title + " was added to your shopping cart.");
+  }),
+  (Shopify.onProduct = function (product) {
+    alert("Received everything we ever wanted to know about " + product.title);
+  }),
+  (Shopify.formatMoney = function (cents, format) {
+    typeof cents == "string" && (cents = cents.replace(".", ""));
+    var value = "",
+      patt = /\{\{\s*(\w+)\s*\}\}/,
+      formatString = format || this.money_format;
+    function addCommas(moneyString) {
+      return moneyString.replace(/(\d+)(\d{3}[\.,]?)/, "$1,$2");
+    }
+    switch (formatString.match(patt)[1]) {
+      case "amount":
+        value = addCommas(floatToString(cents / 100, 2));
+        break;
+      case "amount_no_decimals":
+        value = addCommas(floatToString(cents / 100, 0));
+        break;
+      case "amount_with_comma_separator":
+        value = floatToString(cents / 100, 2).replace(/\./, ",");
+        break;
+      case "amount_no_decimals_with_comma_separator":
+        value = addCommas(floatToString(cents / 100, 0)).replace(/\./, ",");
+        break;
+    }
+    return formatString.replace(patt, value);
+  }),
+  (Shopify.resizeImage = function (image, size) {
+    try {
+      if (size == "original") return image;
+      var matches = image.match(/(.*\/[\w\-\_\.]+)\.(\w{2,4})/);
+      return matches[1] + "_" + size + "." + matches[2];
+    } catch (e) {
+      return image;
+    }
+  }),
+  (Shopify.addItem = function (variant_id, quantity, callback) {
+    quantity = quantity || 1;
+    var params = {
+      type: "POST",
+      url: "/cart/add.js",
+      data: "quantity=" + quantity + "&id=" + variant_id,
+      dataType: "json",
+      success: function (line_item) {
+        typeof callback == "function"
+          ? callback(line_item)
+          : Shopify.onItemAdded(line_item);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  (Shopify.addItemFromForm = function (form, callback) {
+    var params = {
+      type: "POST",
+      url: "/cart/add.js",
+      data: jQuery(form).serialize(),
+      dataType: "json",
+      success: function (line_item) {
+        typeof callback == "function"
+          ? callback(line_item, form)
+          : Shopify.getCart(Shopify.updateQuickCart);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  (Shopify.getCart = function (callback) {
+    jQuery.getJSON("/cart.js", function (cart, textStatus2) {
+      typeof callback == "function"
+        ? callback(cart)
+        : Shopify.onCartUpdate(cart);
+    });
+  }),
+  (Shopify.getCartShippingRatesForDestination = function (
+    shipping_address,
+    callback
+  ) {
+    var params = {
+      type: "GET",
+      url: "/cart/shipping_rates.json",
+      data: Shopify.param({ shipping_address: shipping_address }),
+      dataType: "json",
+      success: function (response) {
+        (rates = response.shipping_rates),
+          typeof callback == "function"
+            ? callback(rates, shipping_address)
+            : Shopify.onCartShippingRatesUpdate(rates, shipping_address);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  (Shopify.getProduct = function (handle, callback) {
+    jQuery.getJSON(
+      "/products/" + handle + ".js",
+      function (product, textStatus2) {
+        typeof callback == "function"
+          ? callback(product)
+          : Shopify.onProduct(product);
+      }
+    );
+  }),
+  (Shopify.changeItem = function (variant_id, quantity, callback) {
+    var params = {
+      type: "POST",
+      url: "/cart/change.js",
+      data: "quantity=" + quantity + "&id=" + variant_id,
+      dataType: "json",
+      success: function (cart) {
+        typeof callback == "function"
+          ? callback(cart)
+          : Shopify.onCartUpdate(cart);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  (Shopify.removeItem = function (variant_id, callback) {
+    var params = {
+      type: "POST",
+      url: "/cart/change.js",
+      data: "quantity=0&id=" + variant_id,
+      dataType: "json",
+      success: function (cart) {
+        typeof callback == "function"
+          ? callback(cart)
+          : Shopify.onCartUpdate(cart);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  (Shopify.clear = function (callback) {
+    var params = {
+      type: "POST",
+      url: "/cart/clear.js",
+      data: "",
+      dataType: "json",
+      success: function (cart) {
+        typeof callback == "function"
+          ? callback(cart)
+          : Shopify.onCartUpdate(cart);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  (Shopify.updateCartFromForm = function (form, callback) {
+    var params = {
+      type: "POST",
+      url: "/cart/update.js",
+      data: jQuery(form).serialize(),
+      dataType: "json",
+      success: function (cart) {
+        typeof callback == "function"
+          ? callback(cart, form)
+          : Shopify.onCartUpdate(cart, form);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  (Shopify.updateCartAttributes = function (attributes, callback) {
+    var data2 = "";
+    jQuery.isArray(attributes)
+      ? jQuery.each(attributes, function (indexInArray, valueOfElement) {
+          var key = attributeToString(valueOfElement.key);
+          key !== "" &&
+            (data2 +=
+              "attributes[" +
+              key +
+              "]=" +
+              attributeToString(valueOfElement.value) +
+              "&");
+        })
+      : typeof attributes == "object" &&
+        attributes !== null &&
+        jQuery.each(attributes, function (key, value) {
+          data2 +=
+            "attributes[" +
+            attributeToString(key) +
+            "]=" +
+            attributeToString(value) +
+            "&";
+        });
+    var params = {
+      type: "POST",
+      url: "/cart/update.js",
+      data: data2,
+      dataType: "json",
+      success: function (cart) {
+        typeof callback == "function"
+          ? callback(cart)
+          : Shopify.onCartUpdate(cart);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  (Shopify.updateCartNote = function (note, callback) {
+    var params = {
+      type: "POST",
+      url: "/cart/update.js",
+      data: "note=" + attributeToString(note),
+      dataType: "json",
+      success: function (cart) {
+        typeof callback == "function"
+          ? callback(cart)
+          : Shopify.onCartUpdate(cart);
+      },
+      error: function (XMLHttpRequest2, textStatus2) {
+        Shopify.onError(XMLHttpRequest2, textStatus2);
+      },
+    };
+    jQuery.ajax(params);
+  }),
+  jQuery.fn.jquery >= "1.4"
+    ? (Shopify.param = jQuery.param)
+    : ((Shopify.param = function (a) {
+        var s = [],
+          add = function (key, value) {
+            (value = jQuery.isFunction(value) ? value() : value),
+              (s[s.length] =
+                encodeURIComponent(key) + "=" + encodeURIComponent(value));
+          };
+        if (jQuery.isArray(a) || a.jquery)
+          jQuery.each(a, function () {
+            add(this.name, this.value);
+          });
+        else for (var prefix in a) Shopify.buildParams(prefix, a[prefix], add);
+        return s.join("&").replace(/%20/g, "+");
+      }),
+      (Shopify.buildParams = function (prefix, obj, add) {
+        jQuery.isArray(obj) && obj.length
+          ? jQuery.each(obj, function (i, v) {
+              rbracket.test(prefix)
+                ? add(prefix, v)
+                : Shopify.buildParams(
+                    prefix +
+                      "[" +
+                      (typeof v == "object" || jQuery.isArray(v) ? i : "") +
+                      "]",
+                    v,
+                    add
+                  );
+            })
+          : obj != null && typeof obj == "object"
+          ? Shopify.isEmptyObject(obj)
+            ? add(prefix, "")
+            : jQuery.each(obj, function (k, v) {
+                Shopify.buildParams(prefix + "[" + k + "]", v, add);
+              })
+          : add(prefix, obj);
+      }),
+      (Shopify.isEmptyObject = function (obj) {
+        for (var name in obj) return !1;
+        return !0;
+      }));
+function floatToString(numeric, decimals) {
+  var amount = numeric.toFixed(decimals).toString();
+  return amount.match(/^\.\d+/) ? "0" + amount : amount;
+}
+function attributeToString(attribute) {
+  return (
+    typeof attribute != "string" &&
+      ((attribute += ""), attribute === "undefined" && (attribute = "")),
+    jQuery.trim(attribute)
+  );
+}
+//# sourceMappingURL=/cdn/shop/t/8/assets/api.jquery.js.map?v=69355967548660806711578649029
