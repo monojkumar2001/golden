@@ -131,7 +131,6 @@
     id="golden-tips-tea-buy-premium-loose-leaf-indian-tea-direct-from-source"
     class="template-index"
   >
-    <!-- End Google Tag Manager (noscript) -->
     <div class="wsmenucontainer clearfix">
       <div class="overlapblackbg"></div>
 
@@ -180,43 +179,6 @@
 
           <div></div>
         </div>
-
-        <script>
-          $(".hide_cross").click(function () {
-            $(".top_Bar").removeClass("show");
-            $(".cstm-margin-detail").addClass("up");
-            $("#shopify-section-1582980077316").css("margin-top", "0");
-            $(".cstm-marginss").addClass("mt-0");
-            $("#cstm-not-home .cstm-margin-heaader").css("margin-top", "-40px");
-
-            $(".cstm-margin-heaader").css("bottom", "0");
-            $(".cstm-margin-heaader").css("margin-bottom", "0");
-            $("#shopify-section-1550753373050").css("margin-top", "0");
-          });
-        </script>
-
-        <script type="text/javascript">
-          (function () {
-            // var words = ["<a class='text-center linkset chrimass_text' href='/collections/celebrations' target='_blank' style=' font-size: 16px; padding: 10px; color:#fff !important;font-weight: 1000;'>Special Tea Gifts for a Merry Christmas</a>"];
-            // var words = ["<a class='text-center text-white linkset' target='_blank' style='padding: 10px;color: #fff  !important;border-radius: 60px;font-weight: bolder; font-style: italic;' href='https://www.goldentipstea.com/collections/all'>Black Friday Sale || <span style='color: #e8b901  !important; '>15% OFF</span> || CODE: BLACKFRIDAY15</a>"];
-            var words = [
-              "<a href='/collections/first-spring' class='text-center text-white linkset' target='_blank' style='padding: 10px;color: #000  !important;border-radius: 60px;font-weight: bolder;' >First Flush 2025 Teas Arrived</a>",
-            ];
-            // var words = ["<a class='text-center linkset chrimass_text' href='/collections/sale-offers' target='_blank' style=' font-size: 16px; padding: 10px; color:#79573e !important;font-weight: 1000;'>New Year Sale – Sip the Best, Save the Most!</a>"];
-
-            $("#words").fadeOut(function () {
-              $(this).html(words[0]).fadeIn();
-            });
-            i = 1;
-            setInterval(function () {
-              $("#words").fadeOut(function () {
-                $(this)
-                  .html(words[(i = (i + 1) % words.length)])
-                  .fadeIn();
-              });
-            }, 5000);
-          })();
-        </script>
 
         <div
           id="header"
@@ -920,27 +882,6 @@
               />
             </form>
           </div>
-
-          <script>
-            $(".cstm-mob-search-div").hide();
-            $(".cart-icon .fa-search,.cart-icon .fa-times").click(function () {
-              $(".cstm-mob-search-div").toggle();
-            });
-
-            $("#content").click(function () {
-              $(".cstm-mob-search-div").hide();
-            });
-
-            $(".cart-icon .fa-search").click(function () {
-              $(".cart-icon .fa-times").removeClass("d-none");
-              $(this).addClass("d-none");
-            });
-
-            $(".cart-icon .fa-times").click(function () {
-              $(".cart-icon .fa-search").removeClass("d-none");
-              $(this).addClass("d-none");
-            });
-          </script>
         </div>
       </div>
 
@@ -1040,35 +981,6 @@
                 display: none !important;
               }
             </style>
-
-            <script>
-              $(document).ready(function () {
-                $(".small-carousel-home").owlCarousel({
-                  loop: true,
-                  margin: 10,
-                  nav: false,
-                  dots: false,
-                  autoplay: false,
-
-                  autoplayHoverPause: false,
-
-                  responsive: {
-                    0: {
-                      items: 6,
-                    },
-                    600: {
-                      items: 6,
-                    },
-                    1000: {
-                      items: 6,
-                    },
-                  },
-                });
-
-                //    $('.owl-prev').text('<');
-                //    $('.owl-next').text('>');
-              });
-            </script>
           </div>
         </div>
       </div>
@@ -3358,6 +3270,87 @@
         </div>
       </div>
 
+      <script>
+        $(document).ready(function () {
+          $(".small-carousel-home").owlCarousel({
+            loop: true,
+            margin: 10,
+            nav: false,
+            dots: false,
+            autoplay: false,
+
+            autoplayHoverPause: false,
+
+            responsive: {
+              0: {
+                items: 6,
+              },
+              600: {
+                items: 6,
+              },
+              1000: {
+                items: 6,
+              },
+            },
+          });
+
+          //    $('.owl-prev').text('<');
+          //    $('.owl-next').text('>');
+        });
+      </script>
+      <script>
+        $(".hide_cross").click(function () {
+          $(".top_Bar").removeClass("show");
+          $(".cstm-margin-detail").addClass("up");
+          $("#shopify-section-1582980077316").css("margin-top", "0");
+          $(".cstm-marginss").addClass("mt-0");
+          $("#cstm-not-home .cstm-margin-heaader").css("margin-top", "-40px");
+
+          $(".cstm-margin-heaader").css("bottom", "0");
+          $(".cstm-margin-heaader").css("margin-bottom", "0");
+          $("#shopify-section-1550753373050").css("margin-top", "0");
+        });
+      </script>
+
+      <script>
+        $(".cstm-mob-search-div").hide();
+        $(".cart-icon .fa-search,.cart-icon .fa-times").click(function () {
+          $(".cstm-mob-search-div").toggle();
+        });
+
+        $("#content").click(function () {
+          $(".cstm-mob-search-div").hide();
+        });
+
+        $(".cart-icon .fa-search").click(function () {
+          $(".cart-icon .fa-times").removeClass("d-none");
+          $(this).addClass("d-none");
+        });
+
+        $(".cart-icon .fa-times").click(function () {
+          $(".cart-icon .fa-search").removeClass("d-none");
+          $(this).addClass("d-none");
+        });
+      </script>
+
+      <script type="text/javascript">
+        (function () {
+          var words = [
+            "<a href='/collections/first-spring' class='text-center text-white linkset' target='_blank' style='padding: 10px;color: #000  !important;border-radius: 60px;font-weight: bolder;' >First Flush 2025 Teas Arrived</a>",
+          ];
+          $("#words").fadeOut(function () {
+            $(this).html(words[0]).fadeIn();
+          });
+          i = 1;
+          setInterval(function () {
+            $("#words").fadeOut(function () {
+              $(this)
+                .html(words[(i = (i + 1) % words.length)])
+                .fadeIn();
+            });
+          }, 5000);
+        })();
+      </script>
       <script
         src="assets/js/jquery.magnific-popup.mine8fb.js"
         type="text/javascript"
@@ -3407,12 +3400,6 @@
           window.location.replace("pages/newsletter-thankyou.html");
         }
       </script>
-
-      <!-- 
-        <script
-          src="../cdn.shopify.com/extensions/089a2379-4f2c-468f-a9ed-55763a08c225/auction-plus-79/assets/bundle.js"
-          type="module"
-        ></script> -->
     </div>
   </body>
 </html>
